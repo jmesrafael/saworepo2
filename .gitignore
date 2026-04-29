@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temp files
+*.tmp
+.cache/
+temp/
+
+# Node (if needed for build tools)
+node_modules/
+dist/
+build/
