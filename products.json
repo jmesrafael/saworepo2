@@ -13,7 +13,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -58,7 +58,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -103,7 +103,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -148,7 +148,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -193,7 +193,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -238,7 +238,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -284,7 +284,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -332,7 +332,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -377,7 +377,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -422,7 +422,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -467,7 +467,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -512,7 +512,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -557,7 +557,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -602,7 +602,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -645,7 +645,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -686,7 +686,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -729,7 +729,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -774,7 +774,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -817,7 +817,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -860,7 +860,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -903,7 +903,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "thermometers"
+      "Thermometers"
     ],
     "tags": [
       "sauna",
@@ -933,6 +933,4069 @@
     "parent_product_id": null
   },
   {
+    "id": "4b5d8a0c-a130-4296-b29d-5855e60ffe69",
+    "name": "Moisture Paper",
+    "slug": "moisture-paper",
+    "short_description": "Code: SP02-900",
+    "description": null,
+    "thumbnail": "images/Moisture-Paper-1200x24mm.webp",
+    "images": [
+      "images/Moisture-Paper-1200x24mm.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Ventilation & Miscellaneous"
+    ],
+    "tags": [
+      "maintenance",
+      "sauna",
+      "accessories",
+      "wellness"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:21:24.783+00:00",
+    "updated_at": "2026-05-14T07:21:24.783+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "d3ae3a53-cbd3-4555-8de7-63e1963d92d7",
+    "name": "Sauna Signage",
+    "slug": "sauna-signage-950",
+    "short_description": "Code: 950-PC | 950-A | 950-D | 950-BL",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_add_ons_950-P.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_add_ons_950-P.webp",
+      "images/SAWO_sauna_accessories_add_ons_950-A.webp",
+      "images/SAWO_sauna_accessories_add_ons_950-D.webp",
+      "images/SAWO_sauna_accessories_add_ons_950-bl.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Ventilation & Miscellaneous"
+    ],
+    "tags": [
+      "signage",
+      "branding",
+      "sauna",
+      "accessories"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:21:24.58+00:00",
+    "updated_at": "2026-05-14T07:21:24.58+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "04c27b7a-ab62-4427-89c4-a62a16ffa6e9",
+    "name": "Display Stand Wall 3",
+    "slug": "display-stand-wall-3",
+    "short_description": "Code: DP-17",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_DP17.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_DP17.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Ventilation & Miscellaneous"
+    ],
+    "tags": [
+      "display",
+      "retail",
+      "merchandising",
+      "accessories"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:21:24.391+00:00",
+    "updated_at": "2026-05-14T07:21:24.391+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "428b1474-abeb-4066-984c-9b96acf1999b",
+    "name": "Display Stand Wall 2",
+    "slug": "display-stand-wall-2",
+    "short_description": "Code: DP-16",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_DP16.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_DP16.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Ventilation & Miscellaneous"
+    ],
+    "tags": [
+      "display",
+      "retail",
+      "merchandising",
+      "accessories"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:21:24.198+00:00",
+    "updated_at": "2026-05-14T07:21:24.199+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "71217047-1794-42bc-81d6-45522426afa7",
+    "name": "Display Stand Wall 1",
+    "slug": "display-stand-wall-1",
+    "short_description": "Code: DP-15",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_DP15.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_DP15.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Ventilation & Miscellaneous"
+    ],
+    "tags": [
+      "display",
+      "retail",
+      "merchandising",
+      "accessories"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:21:23.999+00:00",
+    "updated_at": "2026-05-14T07:21:23.999+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "68fede56-88e5-403b-8945-d489bd024e81",
+    "name": "Ventilation Louver Circle 170mm",
+    "slug": "ventilation-louver-circle-639",
+    "short_description": "Code: 639-PC | 639-A | 639-D | 639-BL",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_ventilations_639-P.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_ventilations_639-P.webp",
+      "images/SAWO_sauna_accessories_ventilations_639-A.webp",
+      "images/SAWO_sauna_accessories_ventilations_639-D.webp",
+      "images/SAWO_sauna_accessories_ventilations_639-BL.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Ventilation & Miscellaneous"
+    ],
+    "tags": [
+      "ventilation",
+      "airflow",
+      "louver",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:21:23.808+00:00",
+    "updated_at": "2026-05-14T07:21:23.808+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "5ec640a8-b0a9-493e-9800-08c6be60e3b7",
+    "name": "Ventilation Louver Circle 145mm",
+    "slug": "ventilation-louver-circle-638",
+    "short_description": "Code: 638-PC | 638-A | 638-D | 638-BL",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_ventilations_638-P.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_ventilations_638-P.webp",
+      "images/SAWO_sauna_accessories_ventilations_638-A.webp",
+      "images/SAWO_sauna_accessories_ventilations_638-D.webp",
+      "images/SAWO_sauna_accessories_ventilations_638-BL.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Ventilation & Miscellaneous"
+    ],
+    "tags": [
+      "ventilation",
+      "airflow",
+      "louver",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:21:23.378+00:00",
+    "updated_at": "2026-05-14T07:21:23.378+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "eaec1be6-143c-4f73-a737-5e5c11d1c919",
+    "name": "Ventilation Louver Square",
+    "slug": "ventilation-louver-square-620",
+    "short_description": "Code: 620-PC | 620-A | 620-D",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_ventilations_620-P.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_ventilations_620-P.webp",
+      "images/SAWO_sauna_accessories_ventilations_620-A.webp",
+      "images/SAWO_sauna_accessories_ventilations_620-D.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Ventilation & Miscellaneous"
+    ],
+    "tags": [
+      "ventilation",
+      "airflow",
+      "louver",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:21:23.055+00:00",
+    "updated_at": "2026-05-14T07:21:23.055+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "47386780-7f60-4af7-91b3-29021b52322d",
+    "name": "Ventilation Louver Circle v2",
+    "slug": "ventilation-louver-circle-634",
+    "short_description": "Code: 634-PC | 634-A | 634-D",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_ventilations_634-P.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_ventilations_634-P.webp",
+      "images/SAWO_sauna_accessories_ventilations_634-A.webp",
+      "images/SAWO_sauna_accessories_ventilations_634-D.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Ventilation & Miscellaneous"
+    ],
+    "tags": [
+      "ventilation",
+      "airflow",
+      "louver",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:21:22.797+00:00",
+    "updated_at": "2026-05-14T07:21:22.797+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "c73f2b01-389d-4772-b065-4bbbb4a092be",
+    "name": "Ventilation Louver Circle",
+    "slug": "ventilation-louver-circle-631",
+    "short_description": "Code: 631-PC | 631-A | 631-D",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_ventilations_631-P.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_ventilations_631-P.webp",
+      "images/SAWO_sauna_accessories_ventilations_631-A.webp",
+      "images/SAWO_sauna_accessories_ventilations_631-D.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Ventilation & Miscellaneous"
+    ],
+    "tags": [
+      "ventilation",
+      "airflow",
+      "louver",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:21:22.561+00:00",
+    "updated_at": "2026-05-14T07:21:22.561+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "b86e4177-8e23-4aaf-b015-f8f6ae7602ca",
+    "name": "Ventilation Cover Circle v2",
+    "slug": "ventilation-cover-circle-641",
+    "short_description": "Code: 641-D",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_ventilations_641-D.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_ventilations_641-D.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Ventilation & Miscellaneous"
+    ],
+    "tags": [
+      "ventilation",
+      "airflow",
+      "sauna",
+      "accessories"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:21:21.903+00:00",
+    "updated_at": "2026-05-14T07:21:21.903+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "c57d0f80-a938-47fc-b7a6-78ef8f17838b",
+    "name": "Ventilation Cover Circle",
+    "slug": "ventilation-cover-circle-640",
+    "short_description": "Code: 640-MBR",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_ventilations_640-BR.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_ventilations_640-BR.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Ventilation & Miscellaneous"
+    ],
+    "tags": [
+      "ventilation",
+      "airflow",
+      "sauna",
+      "accessories"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:21:20.51+00:00",
+    "updated_at": "2026-05-14T07:21:20.51+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "ef8dc156-1821-4061-b674-94cef0914c42",
+    "name": "Soap Holder",
+    "slug": "soap-holder",
+    "short_description": "Code: R-116",
+    "description": null,
+    "thumbnail": "images/R-116-300x300.webp",
+    "images": [
+      "images/R-116-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "accessories",
+      "bathroom",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:17.382+00:00",
+    "updated_at": "2026-05-14T07:15:17.382+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "e3e21678-53b0-4bc1-9c25-bc50ce037647",
+    "name": "Stone Plate Large",
+    "slug": "stone-plate-large",
+    "short_description": "Code: R-153",
+    "description": null,
+    "thumbnail": "images/R-153_C_and_D.webp",
+    "images": [
+      "images/R-153_C_and_D.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "stone",
+      "spa",
+      "wellness",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:17.168+00:00",
+    "updated_at": "2026-05-14T07:15:17.168+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "94424f4f-e239-4c32-9b90-b4934e356dbd",
+    "name": "Stone Plate Small",
+    "slug": "stone-plate-small",
+    "short_description": "Code: R-152",
+    "description": null,
+    "thumbnail": "images/R-152-300x300.webp",
+    "images": [
+      "images/R-152-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "stone",
+      "spa",
+      "wellness",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:16.957+00:00",
+    "updated_at": "2026-05-14T07:15:16.957+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "498d2d30-fbc9-4ba6-b0c7-1aa53c1f3a86",
+    "name": "Candle Holder Straight",
+    "slug": "candle-holder-straight",
+    "short_description": "Code: R-105",
+    "description": null,
+    "thumbnail": "images/R-105-300x300.webp",
+    "images": [
+      "images/R-105-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "candle",
+      "lighting",
+      "decor",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:16.718+00:00",
+    "updated_at": "2026-05-14T07:15:16.718+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "35783457-5362-4e48-af12-c07971c4642d",
+    "name": "Tower Set 3",
+    "slug": "tower-set-3",
+    "short_description": "Code: R-125",
+    "description": null,
+    "thumbnail": "images/R-125-300x300.webp",
+    "images": [
+      "images/R-125-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "candle",
+      "lighting",
+      "decor",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:16.509+00:00",
+    "updated_at": "2026-05-14T07:15:16.509+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "b9bfa340-5b1d-4749-8199-69d119ccdf27",
+    "name": "Candle Holder Tower v3",
+    "slug": "candle-holder-tower-v3",
+    "short_description": "Code: R-133",
+    "description": null,
+    "thumbnail": "images/R-133-300x300.webp",
+    "images": [
+      "images/R-133-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "candle",
+      "lighting",
+      "decor",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:16.284+00:00",
+    "updated_at": "2026-05-14T07:15:16.284+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "015761d4-50ae-4246-b361-6667b972159c",
+    "name": "Candle Holder Tower v2",
+    "slug": "candle-holder-tower-v2",
+    "short_description": "Code: R-132",
+    "description": null,
+    "thumbnail": "images/R-132-300x300.webp",
+    "images": [
+      "images/R-132-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "candle",
+      "lighting",
+      "decor",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:16.062+00:00",
+    "updated_at": "2026-05-14T07:15:16.062+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "e27e313f-54bb-40e0-afdb-fb0e08de5e83",
+    "name": "Candle Holder Tower",
+    "slug": "candle-holder-tower",
+    "short_description": "Code: R-131",
+    "description": null,
+    "thumbnail": "images/R-131-300x300.webp",
+    "images": [
+      "images/R-131-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "candle",
+      "lighting",
+      "decor",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:15.849+00:00",
+    "updated_at": "2026-05-14T07:15:15.849+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "6b66beca-8063-4019-b048-939d45865b53",
+    "name": "Cooler w/ 4 shot glasses",
+    "slug": "cooler-4-shot-glasses",
+    "short_description": "Code: R-206",
+    "description": null,
+    "thumbnail": "images/R-206-300x300.webp",
+    "images": [
+      "images/R-206-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "cooler",
+      "beverage",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:15.636+00:00",
+    "updated_at": "2026-05-14T07:15:15.636+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "400e6a4b-70fc-41e4-861e-7c30ae54265a",
+    "name": "Cooler w/ 2 shot glasses",
+    "slug": "cooler-2-shot-glasses",
+    "short_description": "Code: R-205",
+    "description": null,
+    "thumbnail": "images/R-205-300x300.webp",
+    "images": [
+      "images/R-205-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "cooler",
+      "beverage",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:15.422+00:00",
+    "updated_at": "2026-05-14T07:15:15.422+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "76df2c37-67c6-40ac-8bb0-c67cd2c908fb",
+    "name": "Cooler (2 hole)",
+    "slug": "cooler-2-hole",
+    "short_description": "Code: R-92",
+    "description": null,
+    "thumbnail": "images/R-92-300x300.webp",
+    "images": [
+      "images/R-92-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "cooler",
+      "beverage",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:15.201+00:00",
+    "updated_at": "2026-05-14T07:15:15.201+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "f3d338ca-313a-44b5-ab4e-65f6e2395051",
+    "name": "Cooler (1 hole)",
+    "slug": "cooler-1-hole",
+    "short_description": "Code: R-141",
+    "description": null,
+    "thumbnail": "images/R-141-300x300.webp",
+    "images": [
+      "images/R-141-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "cooler",
+      "beverage",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:14.978+00:00",
+    "updated_at": "2026-05-14T07:15:14.978+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "18c41bf9-fe1c-4cc2-8398-9b5083651525",
+    "name": "Spa Stones Set",
+    "slug": "spa-stones-set",
+    "short_description": "Code: R-500-D",
+    "description": null,
+    "thumbnail": "images/R-500-D-300x300.webp",
+    "images": [
+      "images/R-500-D-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "spa",
+      "stone",
+      "wellness",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:14.737+00:00",
+    "updated_at": "2026-05-14T07:15:14.737+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "098665ed-a665-4f4f-b4a4-710bc5dacaa9",
+    "name": "Wine Cooler Stone",
+    "slug": "wine-cooler-stone",
+    "short_description": "Code: R-93-D",
+    "description": null,
+    "thumbnail": "images/R-93-D-300x300-1.webp",
+    "images": [
+      "images/R-93-D-300x300-1.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "cooler",
+      "beverage",
+      "stone",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:14.47+00:00",
+    "updated_at": "2026-05-14T07:15:14.47+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "c25b2d96-a115-43c4-8289-d74d6f7f5df8",
+    "name": "Scent Warmer",
+    "slug": "scent-warmer",
+    "short_description": "Code: R-123",
+    "description": null,
+    "thumbnail": "images/R-123-300x300.webp",
+    "images": [
+      "images/R-123-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "aromatherapy",
+      "sauna",
+      "wellness"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:14.187+00:00",
+    "updated_at": "2026-05-14T07:15:14.187+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "bae2b3c3-18be-4244-bc02-7339878c26d7",
+    "name": "Aroma Spirit Cup",
+    "slug": "aroma-spirit-cup",
+    "short_description": "Code: R-501",
+    "description": null,
+    "thumbnail": "images/R-501-300x300.webp",
+    "images": [
+      "images/R-501-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "aromatherapy",
+      "sauna",
+      "wellness"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:13.921+00:00",
+    "updated_at": "2026-05-14T07:15:13.921+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "e3e8e724-cb61-4725-9875-bd5572cff024",
+    "name": "Aroma Cup (ø)50",
+    "slug": "aroma-cup-50",
+    "short_description": "Code: R-100",
+    "description": null,
+    "thumbnail": "images/R-100-300x300.webp",
+    "images": [
+      "images/R-100-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "aromatherapy",
+      "sauna",
+      "wellness"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:13.376+00:00",
+    "updated_at": "2026-05-14T07:15:13.376+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "5b835995-5c90-4efd-99ce-80cede81b62c",
+    "name": "Luxury Aroma Cup (ø)50",
+    "slug": "luxury-aroma-cup-50",
+    "short_description": "Code: R-160",
+    "description": null,
+    "thumbnail": "images/R-160-300x300.webp",
+    "images": [
+      "images/R-160-300x300.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Kivistone"
+    ],
+    "tags": [
+      "aromatherapy",
+      "sauna",
+      "wellness"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:15:12.614+00:00",
+    "updated_at": "2026-05-14T07:15:12.614+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "18a6d709-c807-4383-a63e-3e86c2aff182",
+    "name": "Wooden Floor Mat Sides",
+    "slug": "wooden-floor-mat-sides",
+    "short_description": "Code: 595-SID",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_floor-mat-tiles_595-SID.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_floor-mat-tiles_595-SID.webp",
+      "images/SAWO_sauna_accessories_floor-mat-tiles_595-P-SID.webp",
+      "images/SAWO_sauna_accessories_floor-mat-tiles_595-A-SID.webp",
+      "images/SAWO_sauna_accessories_floor-mat-tiles_595-D-SID.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Wooden Floor Mats"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:12:24.559+00:00",
+    "updated_at": "2026-05-14T07:12:24.559+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "dfb82eca-e781-4cb0-80fb-2156383773f8",
+    "name": "Wooden Floor Mat Corner Frame",
+    "slug": "wooden-floor-mat-corner-frame",
+    "short_description": "Code: 595-CNR",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_floor-mat-tiles_595-CNR.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_floor-mat-tiles_595-CNR.webp",
+      "images/SAWO_sauna_accessories_floor-mat-tiles_595-P-CNR.webp",
+      "images/SAWO_sauna_accessories_floor-mat-tiles_595-A-CNR.webp",
+      "images/SAWO_sauna_accessories_floor-mat-tiles_595-D-CNR.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Wooden Floor Mats"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:12:24.188+00:00",
+    "updated_at": "2026-05-14T07:12:24.188+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "da15601c-e1d2-4366-bc90-4c0836e92906",
+    "name": "Wooden Floor Mat Block",
+    "slug": "wooden-floor-mat-block",
+    "short_description": "Code: 595-BC",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_floor-mat-tiles_595-BC.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_floor-mat-tiles_595-BC.webp",
+      "images/SAWO_sauna_accessories_floor-mat-tiles_595-P-BC.webp",
+      "images/SAWO_sauna_accessories_floor-mat-tiles_595-A-BC.webp",
+      "images/SAWO_sauna_accessories_floor-mat-tiles_595-D-BC.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Wooden Floor Mats"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:12:23.337+00:00",
+    "updated_at": "2026-05-14T07:12:23.338+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "5897e664-3a2d-4d37-b5e8-13114efd9e0b",
+    "name": "Wooden Curve Towel Hanger",
+    "slug": "wooden-curve-towel-hanger",
+    "short_description": "Code: 589",
+    "description": null,
+    "thumbnail": "images/Wooden-Curve-Towel-Hanger-589.webp",
+    "images": [
+      "images/Wooden-Curve-Towel-Hanger-589.webp",
+      "images/Wooden-Curve-Towel-Hanger-589-A.webp",
+      "images/Wooden-Curve-Towel-Hanger-589-D.webp",
+      "images/Wooden-Curve-Towel-Hanger-589-BL.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Cloth Hangers"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:11:19.917+00:00",
+    "updated_at": "2026-05-14T07:11:19.917+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "f63161ef-e45f-49d3-a4f0-e6776325196d",
+    "name": "Wooden Hook Rack (5 Hooks)",
+    "slug": "wooden-hook-rack-5-hooks",
+    "short_description": "Code: 583",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_hook_racks_583.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_hook_racks_583.webp",
+      "images/SAWO_sauna_accessories_hook_racks_583-P.webp",
+      "images/SAWO_sauna_accessories_hook_racks_583-A.webp",
+      "images/SAWO_sauna_accessories_hook_racks_583-D.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Cloth Hangers"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:11:19.631+00:00",
+    "updated_at": "2026-05-14T07:11:19.631+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "cb0fa953-f11c-40c2-9765-7f48ca264d17",
+    "name": "Wooden Hook Rack (4 Hooks)",
+    "slug": "wooden-hook-rack-4-hooks",
+    "short_description": "Code: 586",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_hook_racks_586.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_hook_racks_586.webp",
+      "images/SAWO_sauna_accessories_hook_racks_586-P.webp",
+      "images/SAWO_sauna_accessories_hook_racks_586-A.webp",
+      "images/SAWO_sauna_accessories_hook_racks_586-D.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Cloth Hangers"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:11:19.209+00:00",
+    "updated_at": "2026-05-14T07:11:19.209+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "c582ff8e-234c-4cb9-a990-a8f3f44e10c2",
+    "name": "Wooden Hook Rack (3 Hooks)",
+    "slug": "wooden-hook-rack-3-hooks",
+    "short_description": "Code: 582",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_hook_racks_582.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_hook_racks_582.webp",
+      "images/SAWO_sauna_accessories_hook_racks_582-P.webp",
+      "images/SAWO_sauna_accessories_hook_racks_582-A.webp",
+      "images/SAWO_sauna_accessories_hook_racks_582-D.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Cloth Hangers"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:11:18.446+00:00",
+    "updated_at": "2026-05-14T07:11:18.447+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "2b390c3f-15c4-4a79-9b78-6ef30846a90d",
+    "name": "Sauna Bench 2-Steps",
+    "slug": "sauna-bench-2-steps-524",
+    "short_description": "Code: 524",
+    "description": null,
+    "thumbnail": "images/524-D.jpg",
+    "images": [
+      "images/524-D.jpg"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Benches"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:10:15.542+00:00",
+    "updated_at": "2026-05-14T07:10:15.542+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "dcb9b0af-70de-495d-95d3-125fb8c64f2d",
+    "name": "Sauna Bench v4",
+    "slug": "sauna-bench-523",
+    "short_description": "Code: 523",
+    "description": null,
+    "thumbnail": "images/523-D.jpg",
+    "images": [
+      "images/523-D.jpg"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Benches"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:10:15.321+00:00",
+    "updated_at": "2026-05-14T07:10:15.321+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "295de80a-9155-473b-bca2-7ff1e1b4950e",
+    "name": "Sauna Bench v3",
+    "slug": "sauna-bench-522",
+    "short_description": "Code: 522",
+    "description": null,
+    "thumbnail": "images/522-D.jpg",
+    "images": [
+      "images/522-D.jpg"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Benches"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:10:15.033+00:00",
+    "updated_at": "2026-05-14T07:10:15.033+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "3be3dbe3-a320-4f3a-b590-e5d71a912a6f",
+    "name": "Sauna Bench v2",
+    "slug": "sauna-bench-521",
+    "short_description": "Code: 521",
+    "description": null,
+    "thumbnail": "images/521-D.jpg",
+    "images": [
+      "images/521-D.jpg"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Benches"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:10:14.759+00:00",
+    "updated_at": "2026-05-14T07:10:14.759+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "b6caea0c-d102-492d-a930-e6089fb7c5cd",
+    "name": "Sauna Bench",
+    "slug": "sauna-bench-520",
+    "short_description": "Code: 520",
+    "description": null,
+    "thumbnail": "images/520-D.jpg",
+    "images": [
+      "images/520-D.jpg"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Benches"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:10:14.492+00:00",
+    "updated_at": "2026-05-14T07:10:14.492+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "c56b9284-af30-44f5-8315-a84af7508b13",
+    "name": "Siro Sauna Bench v3",
+    "slug": "siro-sauna-bench-529-l",
+    "short_description": "Code: 529-L",
+    "description": null,
+    "thumbnail": "images/120-x-29-x-42cm-Siro-bench-scaled.webp",
+    "images": [
+      "images/120-x-29-x-42cm-Siro-bench-scaled.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Benches"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:10:14.241+00:00",
+    "updated_at": "2026-05-14T07:10:14.241+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "945f355c-e52c-4c4d-a372-d5f2304622bf",
+    "name": "Siro Sauna Bench v2",
+    "slug": "siro-sauna-bench-529",
+    "short_description": "Code: 529",
+    "description": null,
+    "thumbnail": "images/Siro-Sauna-Bench-750x290x400mm.png",
+    "images": [
+      "images/Siro-Sauna-Bench-750x290x400mm.png"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Benches"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:10:13.685+00:00",
+    "updated_at": "2026-05-14T07:10:13.685+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "b0be3b7f-1163-46dc-807c-45e7ce80d0f9",
+    "name": "Siro Sauna Bench",
+    "slug": "siro-sauna-bench-528",
+    "short_description": "Code: 528",
+    "description": null,
+    "thumbnail": "images/Siro-Sauna-Bench-528.png",
+    "images": [
+      "images/Siro-Sauna-Bench-528.png"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Benches"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:10:12.889+00:00",
+    "updated_at": "2026-05-14T07:10:12.889+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "8c2a6df0-9514-4416-8f73-9a13bbc0d34c",
+    "name": "Door Lock Magnet Round, Heavy-Duty",
+    "slug": "door-lock-magnet-round",
+    "short_description": null,
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_door_handle_574.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_door_handle_574.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:05:33.159627+00:00",
+    "updated_at": "2026-05-14T07:05:33.159627+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "ac29ebf8-f36f-4481-ac8b-19d7aa89760c",
+    "name": "Wooden Door Handle with Magnetic Lock v2",
+    "slug": "door-handle-magnetic-lock-v2",
+    "short_description": null,
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_door_handles_571-group.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_door_handles_571-group.webp",
+      "images/SAWO_sauna_accessories_door_handles_571.webp",
+      "images/SAWO_sauna_accessories_door_handles_571-BL.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:05:32.845085+00:00",
+    "updated_at": "2026-05-14T07:05:32.845085+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "c29d1b5e-2981-4485-bffb-609aede4ed97",
+    "name": "Wooden Door Handle with Magnetic Lock",
+    "slug": "door-handle-magnetic-lock",
+    "short_description": null,
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_door_handles_568.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_door_handles_568.webp",
+      "images/SAWO_sauna_accessories_door_handles_568-P.webp",
+      "images/SAWO_sauna_accessories_door_handles_568-A.webp",
+      "images/SAWO_sauna_accessories_door_handles_568-D.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:05:32.513798+00:00",
+    "updated_at": "2026-05-14T07:05:32.513798+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "39f2f5c4-04d3-4201-87e6-7d72367089ec",
+    "name": "Wooden Door Handle Big Round",
+    "slug": "door-handle-big-round",
+    "short_description": null,
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_door_handles_566.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_door_handles_566.webp",
+      "images/SAWO_sauna_accessories_door_handles_566-P.webp",
+      "images/SAWO_sauna_accessories_door_handles_566-A.webp",
+      "images/SAWO_sauna_accessories_door_handles_566-D.webp"
+    ],
+    "spec_images": null,
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": null,
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "draft",
+    "visible": true,
+    "featured": false,
+    "sort_order": 0,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T07:05:32.166508+00:00",
+    "updated_at": "2026-05-14T07:05:32.166508+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": null,
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "59205433-b72e-4aad-b169-730d52db3dec",
+    "name": "Wooden Curve Light 240",
+    "slug": "wooden-curve-light-240",
+    "short_description": "Code: 923-D | 923-D-SET | 923-Black<br>Size: 240 x 85 x 60mm<br>Option: Cedar | Black",
+    "description": null,
+    "thumbnail": "images/923-group.webp",
+    "images": [
+      "images/923-D_2.webp",
+      "images/923-BL_2.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Sauna Lights"
+    ],
+    "tags": [
+      "923-Black",
+      "923-D",
+      "923-D-SET",
+      "Black",
+      "Cedar",
+      "sauna",
+      "sauna-lights"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 24,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "83e8b988-dd34-49cf-96be-df9eede2754e",
+    "name": "Wooden Curve Light 364",
+    "slug": "wooden-curve-light-364",
+    "short_description": "Code: 924-D | 924-D-SET | 924-Black<br>Size: 365 x 85 x 60mm<br>Option: Cedar | Black",
+    "description": null,
+    "thumbnail": "images/924-group.webp",
+    "images": [
+      "images/924-D_2.webp",
+      "images/924-BL_2.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Sauna Lights"
+    ],
+    "tags": [
+      "924-Black",
+      "924-D",
+      "924-D-SET",
+      "Black",
+      "Cedar",
+      "sauna",
+      "sauna-lights"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 25,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "0aaf4eea-e258-40de-a3f8-56a529bc6811",
+    "name": "Wooden Curve Light 614",
+    "slug": "wooden-curve-light-614",
+    "short_description": "Code: 925-D | 925-D-SET | 925-Black<br>Size: 614 x 85 x 60mm<br>Option: Cedar | Black",
+    "description": null,
+    "thumbnail": "images/925-group.webp",
+    "images": [
+      "images/925-D_2.webp",
+      "images/925-BL_2.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Sauna Lights"
+    ],
+    "tags": [
+      "925-Black",
+      "925-D",
+      "925-D-SET",
+      "Black",
+      "Cedar",
+      "sauna",
+      "sauna-lights"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 26,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "a8c04bb8-19b6-4e23-b6f0-38fe4a3d55d9",
+    "name": "Wooden Light Cover Square",
+    "slug": "wooden-light-cover-square-250",
+    "short_description": "Code: 910-SPC | 910-SA | 910-SD<br>Size: 250 x 75mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_light_covers_910.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_light_covers_910.webp",
+      "images/SAWO_sauna_accessories_light_covers_910-SP.webp",
+      "images/SAWO_sauna_accessories_light_covers_910-SA.webp",
+      "images/SAWO_sauna_accessories_light_covers_910-SD.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Sauna Lights"
+    ],
+    "tags": [
+      "910-SA",
+      "910-SD",
+      "910-SPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "sauna",
+      "sauna-lights"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 27,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "74884297-1f19-41e6-8c0d-54c2188d9958",
+    "name": "Wooden Light Cover Square v2",
+    "slug": "wooden-light-cover-square-large",
+    "short_description": "Code: 911-LPC | 911-LA | 911-LD<br>Size: 250 x 135mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_light_covers_911.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_light_covers_911.webp",
+      "images/SAWO_sauna_accessories_light_covers_911-LP.webp",
+      "images/SAWO_sauna_accessories_light_covers_911-LA.webp",
+      "images/SAWO_sauna_accessories_light_covers_911-LD.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Sauna Lights"
+    ],
+    "tags": [
+      "911-LA",
+      "911-LD",
+      "911-LPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "sauna",
+      "sauna-lights"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 28,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "8e45497b-a58f-4976-bb90-caf2f6da6dfa",
+    "name": "Wooden Light Cover Square v3",
+    "slug": "wooden-light-cover-square-vertical",
+    "short_description": "Code: 914-VPC | 914-VA | 914-VD<br>Size: 150 x 110mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_light_covers_914.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_light_covers_914.webp",
+      "images/SAWO_sauna_accessories_light_covers_914-VP.webp",
+      "images/SAWO_sauna_accessories_light_covers_914-VA.webp",
+      "images/SAWO_sauna_accessories_light_covers_914-VD.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Sauna Lights"
+    ],
+    "tags": [
+      "914-VA",
+      "914-VD",
+      "914-VPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "sauna",
+      "sauna-lights"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 29,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "aa6c0faf-2cfc-470f-977c-1dc7d1895020",
+    "name": "Wooden Light Cover Square V4",
+    "slug": "wooden-light-cover-square-v4",
+    "short_description": "Code: 917-PC | 917-A | 917-D<br>Size: 207 x 280mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_light_covers_917.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_light_covers_917.webp",
+      "images/SAWO_sauna_accessories_light_covers_917-P.webp",
+      "images/SAWO_sauna_accessories_light_covers_917-A.webp",
+      "images/SAWO_sauna_accessories_light_covers_917-D.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Sauna Lights"
+    ],
+    "tags": [
+      "917-A",
+      "917-D",
+      "917-PC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "sauna",
+      "sauna-lights"
+    ],
+    "auto_tag_columns": null,
+    "features": [],
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 30,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:41:38.98+00:00",
+    "files": [],
+    "updated_by_username": "Rafael",
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "188a99a9-6c9a-41b0-857e-5bd294196174",
+    "name": "Wave Wooden Backrest",
+    "slug": "wave-wooden-backrest",
+    "short_description": "Code: 506-2-A | 506-2-D | 506-2-BL<br>Size: 390 x 845mm<br>Option: Aspen | Cedar | Black",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_backrests_506-2.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_backrests_506-2.webp",
+      "images/SAWO_sauna_accessories_backrests_506-2-A.webp",
+      "images/SAWO_sauna_accessories_backrests_506-2-D.webp",
+      "images/SAWO_sauna_accessories_backrests_506-2-BL.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Headrest & Backrest"
+    ],
+    "tags": [
+      "506-2-A",
+      "506-2-BL",
+      "506-2-D",
+      "Aspen",
+      "Black",
+      "Cedar",
+      "headrest-backrest",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 31,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "0d23876e-16a3-460c-8b04-2d3ab23094cc",
+    "name": "Wave Wooden Headrest",
+    "slug": "wave-wooden-headrest",
+    "short_description": "Code: 515-A | 515-D | 515-BL<br>Size: 190 x 480mm<br>Option: Aspen | Cedar | Black",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_headrest_515.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_headrest_515.webp",
+      "images/SAWO_sauna_accessories_headrest_515-A.webp",
+      "images/SAWO_sauna_accessories_headrest_515-D.webp",
+      "images/SAWO_sauna_accessories_headrest_515-BL.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Headrest & Backrest"
+    ],
+    "tags": [
+      "515-A",
+      "515-BL",
+      "515-D",
+      "Aspen",
+      "Black",
+      "Cedar",
+      "headrest-backrest",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 32,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "8e2fa4c2-60fc-4c8f-afbb-1e8e969a14a2",
+    "name": "Wave Wooden Headrest v2",
+    "slug": "halu-wooden-headrest",
+    "short_description": "Code: 512-A | 512-D | 512-BL<br>Size: 180 x 230mm<br>Option: Aspen | Cedar | Black",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_headrests_512v2.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_headrests_512-A.webp",
+      "images/SAWO_sauna_accessories_headrests_512-D.webp",
+      "images/SAWO_sauna_accessories_headrests_512-BL.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Headrest & Backrest"
+    ],
+    "tags": [
+      "512-A",
+      "512-BL",
+      "512-D",
+      "Aspen",
+      "Black",
+      "Cedar",
+      "headrest-backrest",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 33,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "8ac75bda-2ee6-4e98-9d86-11eb1fc1cd0d",
+    "name": "Halu Anti-theft Headrest",
+    "slug": "halu-anti-theft-headrest",
+    "short_description": "Code: 513-A | 513-D<br>Size: 190 x 480mm<br>Option: Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_headrests_513.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_headrests_513.webp",
+      "images/SAWO_sauna_accessories_headrests_513-A.webp",
+      "images/SAWO_sauna_accessories_headrests_513-D.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Headrest & Backrest"
+    ],
+    "tags": [
+      "513-A",
+      "513-D",
+      "Aspen",
+      "Cedar",
+      "headrest-backrest",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 34,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "93a7c582-3d48-451d-bc1a-2a91dd91f3bb",
+    "name": "Wooden Backrest",
+    "slug": "wooden-backrest-standard",
+    "short_description": "Code: 516-PC | 516-A | 516-D<br>Size: 396 x 515mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_backrests_516.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_backrests_516.webp",
+      "images/SAWO_sauna_accessories_backrests_516-PC.webp",
+      "images/SAWO_sauna_accessories_backrests_516-A.webp",
+      "images/SAWO_sauna_accessories_backrests_516-D.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Headrest & Backrest"
+    ],
+    "tags": [
+      "516-A",
+      "516-D",
+      "516-PC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "headrest-backrest",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 35,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "8d662716-4c95-4d46-994b-831d2573e08e",
+    "name": "Wooden Backrest v2",
+    "slug": "wooden-backrest-compact",
+    "short_description": "Code: 514-A | 514-D<br>Size: 190 x 480mm<br>Option: Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_backrests_514.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_backrests_514.webp",
+      "images/SAWO_sauna_accessories_backrests_514-A.webp",
+      "images/SAWO_sauna_accessories_backrests_514-D.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Headrest & Backrest"
+    ],
+    "tags": [
+      "514-A",
+      "514-D",
+      "Aspen",
+      "Cedar",
+      "headrest-backrest",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 36,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "59a8f01c-dded-4eac-8b76-4658786654f4",
+    "name": "Wooden Stripe Sauna Door",
+    "slug": "wooden-stripe-door-610",
+    "short_description": "Code: 770-4SD-R | 770-4SD-L<br>Size: Opening: 610 x 1935mm<br>Option: Cedar",
+    "description": null,
+    "thumbnail": "images/Edited-SAWO_sauna_accessories_doors_770-4SD.webp",
+    "images": [
+      "images/Edited-SAWO_sauna_accessories_doors_770-4SD.webp",
+      "images/Edited-SAWO_sauna_accessories_doors_770-4SD-R.webp",
+      "images/Edited-SAWO_sauna_accessories_doors_770-4SD-L.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "770-4SD-L",
+      "770-4SD-R",
+      "Cedar",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 37,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "b5e0f13f-3b86-48f6-90a3-23fe2f2bc5a5",
+    "name": "Wooden Stripe Sauna Door v2",
+    "slug": "wooden-stripe-door-915",
+    "short_description": "Code: 771-4SD-R | 771-4SD-L<br>Size: Opening: 915 x 2015mm<br>Option: Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_771-4SD.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_771-4SD.webp",
+      "images/SAWO_sauna_accessories_doors_771-4SD-R.webp",
+      "images/SAWO_sauna_accessories_doors_771-4SD-L.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "771-4SD-L",
+      "771-4SD-R",
+      "Cedar",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 38,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "beee0a76-1b39-458b-ba10-4ceb6290aa88",
+    "name": "Wooden Reversible Sauna Door",
+    "slug": "wooden-reversible-door-915",
+    "short_description": "Code: 773-4SPC | 773-4SA | 773-4SD<br>Size: Opening: 915 x 2015mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_773_4S.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_773_4S.webp",
+      "images/SAWO_sauna_accessories_doors_773_4SP.webp",
+      "images/SAWO_sauna_accessories_doors_773_4SA.webp",
+      "images/SAWO_sauna_accessories_doors_773_4SD.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "773-4SA",
+      "773-4SD",
+      "773-4SPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 39,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "6b582815-39e4-4247-a6fb-cc8353213936",
+    "name": "Wooden Reversible Sauna Door v2",
+    "slug": "wooden-reversible-door-610",
+    "short_description": "Code: 734-4SPC | 734-4SA | 734-4SD<br>Size: Opening: 610 x 1935mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_734-4S.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_734-4S.webp",
+      "images/SAWO_sauna_accessories_doors_734-4SP.webp",
+      "images/SAWO_sauna_accessories_doors_734-4SA.webp",
+      "images/SAWO_sauna_accessories_doors_734-4SD.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "734-4SA",
+      "734-4SD",
+      "734-4SPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 40,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "c08dece2-766d-4921-9f51-f59155d4b583",
+    "name": "Door with Clear Glass Window",
+    "slug": "door-clear-glass-600",
+    "short_description": "Code: 743-4SCPC | 743-4SCA | 743-4SCD<br>Size: Opening: 600 x 1800mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_743-4SC.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_743-4SC.webp",
+      "images/SAWO_sauna_accessories_doors_743-4SCU-R.webp",
+      "images/SAWO_sauna_accessories_doors_743-4SCA-R.webp",
+      "images/SAWO_sauna_accessories_doors_743-4SCD-R.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "743-4SCA",
+      "743-4SCD",
+      "743-4SCPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 41,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "80f72bf2-6c6e-4be5-9820-876b1e56aa0d",
+    "name": "Wooden Door with Bronze Glass Window",
+    "slug": "door-bronze-glass-600",
+    "short_description": "Code: 743-4SGPC | 743-4SGA | 743-4SGD<br>Size: Opening: 600 x 1800mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_743-4SG.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_743-4SG.webp",
+      "images/SAWO_sauna_accessories_doors_743-4SGU-R.webp",
+      "images/SAWO_sauna_accessories_doors_743-4SGA-R.webp",
+      "images/SAWO_sauna_accessories_doors_743-4SGD-R.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "743-4SGA",
+      "743-4SGD",
+      "743-4SGPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 42,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "8aaf9b93-3c6d-4a77-8b85-9685135ea9c8",
+    "name": "Wooden Sauna Door with Window",
+    "slug": "wooden-door-window-915",
+    "short_description": "Code: 736-4SGPC | 736-4SGA | 736-4SGD<br>Size: Opening: 915 x 2015mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_736-4SG.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_736-4SG.webp",
+      "images/SAWO_sauna_accessories_doors_736-4SGU-R.webp",
+      "images/SAWO_sauna_accessories_doors_736-4SGA-R.webp",
+      "images/SAWO_sauna_accessories_doors_736-4SGD-R.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "736-4SGA",
+      "736-4SGD",
+      "736-4SGPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 43,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "b5ab8b7c-999d-4779-998f-61a434ef62e6",
+    "name": "Wooden Wide Clear Window Sauna Door",
+    "slug": "wide-clear-window-door-1003",
+    "short_description": "Code: 739-3SCPC | 739-3SCA | 739-3SCD<br>Size: Opening: 1003 x 2075mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_739-3SC.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_739-3SC.webp",
+      "images/SAWO_sauna_accessories_doors_739-3SCP-R.webp",
+      "images/SAWO_sauna_accessories_doors_739-3SCA-R.webp",
+      "images/SAWO_sauna_accessories_doors_739-3SCD-R.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "739-3SCA",
+      "739-3SCD",
+      "739-3SCPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 44,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "1018dffd-d068-4c5a-92ee-2f4f810b3ccd",
+    "name": "Wooden Wide Clear Window Sauna Door v2",
+    "slug": "wide-bronze-window-door-1003",
+    "short_description": "Code: 739-3SGPC | 739-3SGA | 739-3SGD<br>Size: Opening: 1003 x 2075mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_739-3Sg.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_739-3Sg.webp",
+      "images/SAWO_sauna_accessories_doors_739-3SGP-R.webp",
+      "images/SAWO_sauna_accessories_doors_739-3SGA-R.webp",
+      "images/SAWO_sauna_accessories_doors_739-3SGD-R.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "739-3SGA",
+      "739-3SGD",
+      "739-3SGPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 45,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "2bf75430-9621-4d62-965d-e193ffde488c",
+    "name": "Clear Glass Reversible Sauna Door",
+    "slug": "clear-glass-reversible-600",
+    "short_description": "Code: 730-4SCPC | 730-4SCA | 730-4SCD<br>Size: Opening: 600 x 1800mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_730-4SC.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_730-4SC.webp",
+      "images/SAWO_sauna_accessories_doors_730-4SCP.webp",
+      "images/SAWO_sauna_accessories_doors_730-4SCA.webp",
+      "images/SAWO_sauna_accessories_doors_730-4SCD.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "730-4SCA",
+      "730-4SCD",
+      "730-4SCPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 46,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "9fc981a2-96c1-4abc-9b7a-395da27e5bb8",
+    "name": "Clear Glass Reversible Sauna Door v2",
+    "slug": "clear-glass-reversible-600-wide",
+    "short_description": "Code: 731-4SCPC | 731-4SCA | 731-4SCD<br>Size: Opening: 600 x 1800mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_731-4SC.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_731-4SC.webp",
+      "images/SAWO_sauna_accessories_doors_731-4SCP.webp",
+      "images/SAWO_sauna_accessories_doors_731-4SCA.webp",
+      "images/SAWO_sauna_accessories_doors_731-4SCD.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "731-4SCA",
+      "731-4SCD",
+      "731-4SCPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 47,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "3e21fad5-f132-4f25-9405-623f490b8289",
+    "name": "Clear Glass Reversible Sauna Door with Vertical Wooden Handle Arc",
+    "slug": "clear-glass-reversible-arc",
+    "short_description": "Code: 741-4SCA-1 | 741-4SCD-1<br>Size: Opening: 600 x 1800mm<br>Option: Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_741-4SC-1.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_741-4SCA-1.webp",
+      "images/SAWO_sauna_accessories_doors_741-4SCD-1.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "741-4SCA-1",
+      "741-4SCD-1",
+      "Aspen",
+      "Cedar",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 48,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "5b3626da-cbbf-4733-87e6-8e11fc6677f4",
+    "name": "Clear Glass Reversible Sauna Door with Vertical Wooden Handle Metal",
+    "slug": "clear-glass-reversible-metal",
+    "short_description": "Code: 741-4SCA-3 | 741-4SCD-3<br>Size: Opening: 600 x 1800mm<br>Option: Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_741-4SC-3.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_741-4SCA-3.webp",
+      "images/SAWO_sauna_accessories_doors_741-4SCD-3.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "741-4SCA-3",
+      "741-4SCD-3",
+      "Aspen",
+      "Cedar",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 49,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "49af3e19-327b-4f50-9eb5-762c0340cb55",
+    "name": "Bronze Glass Reversible Sauna Door with Arc Handle",
+    "slug": "bronze-glass-reversible-arc",
+    "short_description": "Code: 741-4SGPC-1 | 741-4SGA-1 | 741-4SGD-1<br>Size: Opening: 600 x 1800mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_741-4SG-1.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_741-4SGP-1.webp",
+      "images/SAWO_sauna_accessories_doors_741-4SGA-1.webp",
+      "images/SAWO_sauna_accessories_doors_741-4SGD-1.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "741-4SGA-1",
+      "741-4SGD-1",
+      "741-4SGPC-1",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 50,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "fdfbe6a3-c1ef-489d-9ffe-7140c6b3d201",
+    "name": "Bronze Glass Reversible Sauna Door with Metallic Handle",
+    "slug": "bronze-glass-reversible-metal",
+    "short_description": "Code: 741-4SGPC-3 | 741-4SGA-3 | 741-4SGD-3<br>Size: Opening: 600 x 1800mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_741-4SG-3.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_741-4SGP-3.webp",
+      "images/SAWO_sauna_accessories_doors_741-4SGA-3.webp",
+      "images/SAWO_sauna_accessories_doors_741-4SGD-3.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "741-4SGA-3",
+      "741-4SGD-3",
+      "741-4SGPC-3",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 51,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "3fdc1b9c-65de-4257-be97-c934b6df6a8d",
+    "name": "Bronze Glass Reversible Sauna Door Standard",
+    "slug": "bronze-glass-reversible-standard",
+    "short_description": "Code: 730-4SGPC | 730-4SGA | 730-4SGD<br>Size: Opening: 600 x 1800mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_730-4SG.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_730-4SG.webp",
+      "images/SAWO_sauna_accessories_doors_730-4SGP.webp",
+      "images/SAWO_sauna_accessories_doors_730-4SGA.webp",
+      "images/SAWO_sauna_accessories_doors_730-4SGD.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "730-4SGA",
+      "730-4SGD",
+      "730-4SGPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 52,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "c100b164-1cb5-40f4-8bb7-2b21b52e1366",
+    "name": "Bronze Glass Reversible Sauna Door Standard v2",
+    "slug": "bronze-glass-reversible-wide",
+    "short_description": "Code: 731-4SGPC | 731-4SGA | 731-4SGD<br>Size: Opening: 700 x 1800mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_731-4SG.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_731-4SG.webp",
+      "images/SAWO_sauna_accessories_doors_731-4SGP.webp",
+      "images/SAWO_sauna_accessories_doors_731-4SGA.webp",
+      "images/SAWO_sauna_accessories_doors_731-4SGD.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "731-4SGA",
+      "731-4SGD",
+      "731-4SGPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 53,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "b1c1595d-0ae8-40f3-9070-588a03e09679",
+    "name": "Bronze Glass Sauna Door Finland",
+    "slug": "bronze-glass-door-finland",
+    "short_description": "Code: 731-3SGPC | 731-3SGA | 731-3SGD<br>Size: Opening: 700 x 1800mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_doors_731-3SG.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_doors_731-3SG.webp",
+      "images/SAWO_sauna_accessories_doors_731-3SGP-R.webp",
+      "images/SAWO_sauna_accessories_doors_731-3SGA-R.webp",
+      "images/SAWO_sauna_accessories_doors_731-3SGD-R.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "731-3SGA",
+      "731-3SGD",
+      "731-3SGPC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 54,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "65e55318-0413-4113-bbda-0e28f28c6069",
+    "name": "Door Handle Straight 40x900",
+    "slug": "door-handle-straight-900",
+    "short_description": "Code: 558-A | 558-D | 558-BL<br>Size: 40 x 900mm<br>Option: Aspen | Cedar | Black",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_door_handles_558.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_door_handles_558.webp",
+      "images/SAWO_sauna_accessories_door_handles_558-A.webp",
+      "images/SAWO_sauna_accessories_door_handles_558-D.webp",
+      "images/SAWO_sauna_accessories_door_handles_558-BL.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "558-A",
+      "558-BL",
+      "558-D",
+      "Aspen",
+      "Black",
+      "Cedar",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 55,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "634f5c3d-821e-40bc-9788-0ff37cc4d1d7",
+    "name": "Door Handle Straight 40x900 v2",
+    "slug": "door-handle-straight-900-v2",
+    "short_description": "Code: 559-A | 559-D | 559-BL<br>Size: 40 x 900mm<br>Option: Aspen | Cedar | Black",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_door_handles_559.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_door_handles_559.webp",
+      "images/SAWO_sauna_accessories_door_handles_559-A.webp",
+      "images/SAWO_sauna_accessories_door_handles_559-D.webp",
+      "images/SAWO_sauna_accessories_door_handles_559-BL.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "559-A",
+      "559-BL",
+      "559-D",
+      "Aspen",
+      "Black",
+      "Cedar",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 56,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "7905e9fa-4da6-48e6-a1c8-ed3d230da084",
+    "name": "Wooden Straight Door Handle with Metal Accent",
+    "slug": "straight-handle-metal",
+    "short_description": "Code: 560-A | 560-D | 560-BL<br>Size: 155 x 900mm<br>Option: Aspen | Cedar | Black",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_door_handles_560.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_door_handles_560.webp",
+      "images/SAWO_sauna_accessories_door_handles_560-A.webp",
+      "images/SAWO_sauna_accessories_door_handles_560-D.webp",
+      "images/SAWO_sauna_accessories_door_handles_560-BL.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "560-A",
+      "560-BL",
+      "560-D",
+      "Aspen",
+      "Black",
+      "Cedar",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 57,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "dfd3ee97-57ad-48ca-a110-9d0cb8d31921",
+    "name": "Wooden Door Handle Small Round",
+    "slug": "door-handle-small-round",
+    "short_description": "Code: 565-PC | 565-A | 565-D<br>Size: Ø65 x W70mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_door_handles_565.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_door_handles_565.webp",
+      "images/SAWO_sauna_accessories_door_handles_565-P.webp",
+      "images/SAWO_sauna_accessories_door_handles_565-A.webp",
+      "images/SAWO_sauna_accessories_door_handles_565-D.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Doors & Handles"
+    ],
+    "tags": [
+      "565-A",
+      "565-D",
+      "565-PC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "doors-handles",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 58,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:20:28.317+00:00",
+    "updated_at": "2026-05-14T06:20:28.317+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "sort_order": 17,
+    "features": null,
+    "parent_product_id": null,
+    "is_deleted": false,
+    "spec_images": [],
+    "resources": null,
+    "thumbnail": "images/SAWO_sauna_accessories_clocks_534-D.webp",
+    "categories": [
+      "Clocks & Timers"
+    ],
+    "short_description": "Code: 534-D<br>Size: 180 x 180mm<br>Option: Cedar",
+    "updated_at": "2026-05-14T06:11:38.035+00:00",
+    "spec_table": null,
+    "files": [],
+    "type": null,
+    "id": "740f00fe-e7e2-45e0-a6d4-af44e4bd2482",
+    "capacity_liters": null,
+    "featured": false,
+    "product_family": null,
+    "visible": true,
+    "auto_tag_columns": null,
+    "description": null,
+    "created_at": "2026-05-14T06:11:38.035+00:00",
+    "slug": "loisto-clock-square",
+    "created_by_username": null,
+    "variant_type": "material",
+    "brand": "SAWO",
+    "images": [
+      "images/SAWO_sauna_accessories_clocks_534-D.webp"
+    ],
+    "updated_by_username": null,
+    "tags": [
+      "534-D",
+      "Cedar",
+      "loisto",
+      "loisto-clock-square",
+      "sauna"
+    ],
+    "status": "published",
+    "name": "Loisto Clock Square",
+    "created_by": null
+  },
+  {
+    "id": "3804b275-a8b3-49cf-b4b1-06ea538925c4",
+    "name": "Loisto Wooden Clock Round",
+    "slug": "loisto-wooden-clock-round",
+    "short_description": "Code: 535-D<br>Size: Ã˜180mm<br>Option: Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_clocks_535-D.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_clocks_535-D.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Clocks & Timers"
+    ],
+    "tags": [
+      "535-D",
+      "Cedar",
+      "loisto",
+      "loisto-wooden-clock-round",
+      "sauna"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 18,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:11:38.035+00:00",
+    "updated_at": "2026-05-14T06:11:38.035+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "2923ca7d-8d5d-48b4-b7c4-2d80a6300df9",
+    "name": "Wooden Pail Clock",
+    "slug": "wooden-pail-clock",
+    "short_description": "Code: 530-PC | 530-A | 530-D<br>Size: Ã˜260 x 90mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_clocks_530.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_clocks_530-P.webp",
+      "images/SAWO_sauna_accessories_clocks_530-A.webp",
+      "images/SAWO_sauna_accessories_clocks_530-D.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Clocks & Timers"
+    ],
+    "tags": [
+      "530-A",
+      "530-D",
+      "530-PC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "sauna",
+      "wooden",
+      "wooden-pail-clock"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 19,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:11:38.035+00:00",
+    "updated_at": "2026-05-14T06:11:38.035+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "id": "689c937f-cbc4-4149-9c4e-38210bae3c74",
+    "name": "Wooden Pail Clock Small",
+    "slug": "wooden-pail-clock-small",
+    "short_description": "Code: 531-PC | 531-A | 531-D<br>Size: Ã˜260 x 90mm<br>Option: Pinaceae | Aspen | Cedar",
+    "description": null,
+    "thumbnail": "images/SAWO_sauna_accessories_clocks_531.webp",
+    "images": [
+      "images/SAWO_sauna_accessories_clocks_531-P.webp",
+      "images/SAWO_sauna_accessories_clocks_531-A.webp",
+      "images/SAWO_sauna_accessories_clocks_531-D.webp"
+    ],
+    "spec_images": [],
+    "categories": [
+      "Clocks & Timers"
+    ],
+    "tags": [
+      "531-A",
+      "531-D",
+      "531-PC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "sauna",
+      "wooden",
+      "wooden-pail-clock-small"
+    ],
+    "auto_tag_columns": null,
+    "features": null,
+    "brand": "SAWO",
+    "type": null,
+    "spec_table": null,
+    "resources": null,
+    "status": "published",
+    "visible": true,
+    "featured": false,
+    "sort_order": 20,
+    "created_by": null,
+    "created_by_username": null,
+    "created_at": "2026-05-14T06:11:38.035+00:00",
+    "updated_at": "2026-05-14T06:11:38.035+00:00",
+    "files": [],
+    "updated_by_username": null,
+    "is_deleted": false,
+    "capacity_liters": null,
+    "variant_type": "material",
+    "product_family": null,
+    "parent_product_id": null
+  },
+  {
+    "sort_order": 21,
+    "features": null,
+    "parent_product_id": null,
+    "is_deleted": false,
+    "spec_images": [],
+    "resources": null,
+    "thumbnail": "images/SAWO_sauna_accessories_timers_553.webp",
+    "categories": [
+      "Clocks & Timers"
+    ],
+    "short_description": "Code: 553-PC | 553-A | 553-D | 553-BL<br>Size: 65 x 340mm<br>Option: Pinaceae | Aspen | Cedar | Black",
+    "updated_at": "2026-05-14T06:11:38.035+00:00",
+    "spec_table": null,
+    "files": [],
+    "type": null,
+    "id": "fe2481e5-32c8-41d7-ab18-0d74715d6bb1",
+    "capacity_liters": null,
+    "featured": false,
+    "product_family": null,
+    "visible": true,
+    "auto_tag_columns": null,
+    "description": null,
+    "created_at": "2026-05-14T06:11:38.035+00:00",
+    "slug": "sand-timer-15min",
+    "created_by_username": null,
+    "variant_type": "material",
+    "brand": "SAWO",
+    "images": [
+      "images/SAWO_sauna_accessories_timers_553-P.webp",
+      "images/SAWO_sauna_accessories_timers_553-A.webp",
+      "images/SAWO_sauna_accessories_timers_553-D.webp",
+      "images/SAWO_sauna_accessories_timers_553-BL.webp"
+    ],
+    "updated_by_username": null,
+    "tags": [
+      "553-A",
+      "553-BL",
+      "553-D",
+      "553-PC",
+      "Aspen",
+      "Black",
+      "Cedar",
+      "Pinaceae",
+      "sand",
+      "sand-timer-15min",
+      "sauna"
+    ],
+    "status": "published",
+    "name": "Sand Timer 15min",
+    "created_by": null
+  },
+  {
+    "sort_order": 22,
+    "features": null,
+    "parent_product_id": null,
+    "is_deleted": false,
+    "spec_images": [],
+    "resources": null,
+    "thumbnail": "images/SAWO_sauna_accessories_timers_554.webp",
+    "categories": [
+      "Clocks & Timers"
+    ],
+    "short_description": "Code: 554-A | 554-D | 554-BL<br>Size: 65 x 340mm<br>Option: Aspen | Cedar | Black",
+    "updated_at": "2026-05-14T06:11:38.035+00:00",
+    "spec_table": null,
+    "files": [],
+    "type": null,
+    "id": "4699856d-343e-4a7c-bcd7-9e7ac692cf79",
+    "capacity_liters": null,
+    "featured": false,
+    "product_family": null,
+    "visible": true,
+    "auto_tag_columns": null,
+    "description": null,
+    "created_at": "2026-05-14T06:11:38.035+00:00",
+    "slug": "sand-timer-kanto-15min",
+    "created_by_username": null,
+    "variant_type": "material",
+    "brand": "SAWO",
+    "images": [
+      "images/SAWO_sauna_accessories_timers_554-A.webp",
+      "images/SAWO_sauna_accessories_timers_554-D.webp",
+      "images/SAWO_sauna_accessories_timers_554-BL.webp"
+    ],
+    "updated_by_username": null,
+    "tags": [
+      "554-A",
+      "554-BL",
+      "554-D",
+      "Aspen",
+      "Black",
+      "Cedar",
+      "sand",
+      "sand-timer-kanto-15min",
+      "sauna"
+    ],
+    "status": "published",
+    "name": "Sand Timer Kanto 15min",
+    "created_by": null
+  },
+  {
+    "sort_order": 23,
+    "features": null,
+    "parent_product_id": null,
+    "is_deleted": false,
+    "spec_images": [],
+    "resources": null,
+    "thumbnail": "images/SAWO_sauna_accessories_timers_550.webp",
+    "categories": [
+      "Clocks & Timers"
+    ],
+    "short_description": "Code: 550-PC | 550-A | 550-D<br>Size: 65 x 340mm<br>Option: Pinaceae | Aspen | Cedar",
+    "updated_at": "2026-05-14T06:11:38.035+00:00",
+    "spec_table": null,
+    "files": [],
+    "type": null,
+    "id": "03d7b807-e019-40e3-b075-b45a657c589e",
+    "capacity_liters": null,
+    "featured": false,
+    "product_family": null,
+    "visible": true,
+    "auto_tag_columns": null,
+    "description": null,
+    "created_at": "2026-05-14T06:11:38.035+00:00",
+    "slug": "sand-timer-tag-15min",
+    "created_by_username": null,
+    "variant_type": "material",
+    "brand": "SAWO",
+    "images": [
+      "images/SAWO_sauna_accessories_timers_550-P.webp",
+      "images/SAWO_sauna_accessories_timers_550-A.webp",
+      "images/SAWO_sauna_accessories_timers_550-D.webp"
+    ],
+    "updated_by_username": null,
+    "tags": [
+      "550-A",
+      "550-D",
+      "550-PC",
+      "Aspen",
+      "Cedar",
+      "Pinaceae",
+      "sand",
+      "sand-timer-tag-15min",
+      "sauna"
+    ],
+    "status": "published",
+    "name": "Sand Timer Tag 15min",
+    "created_by": null
+  },
+  {
+    "sort_order": 16,
+    "features": null,
+    "parent_product_id": null,
+    "is_deleted": false,
+    "spec_images": [],
+    "resources": null,
+    "thumbnail": "images/SAWO_sauna_accessories_pail_shower_new.webp",
+    "categories": [
+      "Pail Shower"
+    ],
+    "short_description": "Code: 393-PC | 393-D | 393-BL<br>Size: 18L<br>Option: Pinaceae | Cedar | Black",
+    "updated_at": "2026-05-14T06:11:38.035+00:00",
+    "spec_table": null,
+    "files": [],
+    "type": null,
+    "id": "906c4e00-3119-4ca6-8bf0-522668f6f778",
+    "capacity_liters": 18,
+    "featured": false,
+    "product_family": null,
+    "visible": true,
+    "auto_tag_columns": null,
+    "description": null,
+    "created_at": "2026-05-14T06:11:38.035+00:00",
+    "slug": "pail-shower",
+    "created_by_username": null,
+    "variant_type": "material",
+    "brand": "SAWO",
+    "images": [
+      "images/SAWO_sauna_accessories_pail_shower_pinaceae.webp",
+      "images/SAWO_sauna_accessories_pail_shower_cedar.webp",
+      "images/SAWO_sauna_accessories_pail_shower_black.webp"
+    ],
+    "updated_by_username": null,
+    "tags": [
+      "18L",
+      "393-BL",
+      "393-D",
+      "393-PC",
+      "Black",
+      "Cedar",
+      "pail-shower",
+      "Pine",
+      "sauna",
+      "Wooden"
+    ],
+    "status": "published",
+    "name": "Pail Shower",
+    "created_by": null
+  },
+  {
     "id": "707da6b9-bbe2-4c7e-b5c3-a8a7834d0ee3",
     "name": "Wooden Ladle Standard 36cm",
     "slug": "wooden-ladle-standard-36cm",
@@ -946,7 +5009,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "360mm",
@@ -997,7 +5060,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "420mm",
@@ -1048,7 +5111,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "443-A",
@@ -1099,7 +5162,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "444-A",
@@ -1150,7 +5213,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "459-BL",
@@ -1203,7 +5266,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "460-BL",
@@ -1254,7 +5317,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "461-BL",
@@ -1305,7 +5368,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "451-MBL",
@@ -1355,7 +5418,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "449-BL",
@@ -1403,7 +5466,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "449-BL-DRF",
@@ -1452,7 +5515,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "400mm",
@@ -1502,7 +5565,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "445-MA",
@@ -1553,7 +5616,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "400mm",
@@ -1603,7 +5666,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "453-MA",
@@ -1652,7 +5715,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "ladles"
+      "Ladles"
     ],
     "tags": [
       "446-MA",
@@ -1703,7 +5766,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "392-A",
@@ -1732,7 +5795,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": null,
     "is_deleted": false,
@@ -1755,7 +5818,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "392",
@@ -1784,7 +5847,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": "Rafael",
     "is_deleted": false,
@@ -1807,7 +5870,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "391",
@@ -1836,7 +5899,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": "Rafael",
     "is_deleted": false,
@@ -1859,7 +5922,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "347-BL",
@@ -1887,7 +5950,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.006Z",
+    "updated_at": "2026-05-14T04:04:42.006+00:00",
     "files": [],
     "updated_by_username": "Rafael",
     "is_deleted": false,
@@ -1910,7 +5973,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "346-BL",
@@ -1938,7 +6001,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.006Z",
+    "updated_at": "2026-05-14T04:04:42.006+00:00",
     "files": [],
     "updated_by_username": null,
     "is_deleted": false,
@@ -1961,7 +6024,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "341-A",
@@ -1991,7 +6054,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": null,
     "is_deleted": false,
@@ -2014,7 +6077,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "340-A",
@@ -2045,7 +6108,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": "Rafael",
     "is_deleted": false,
@@ -2068,7 +6131,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "18L",
@@ -2097,7 +6160,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": null,
     "is_deleted": false,
@@ -2120,7 +6183,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "300-HA",
@@ -2150,7 +6213,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": null,
     "is_deleted": false,
@@ -2173,7 +6236,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "371-MA",
@@ -2204,7 +6267,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": null,
     "is_deleted": false,
@@ -2227,7 +6290,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "375-MA",
@@ -2257,7 +6320,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": null,
     "is_deleted": false,
@@ -2280,7 +6343,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "381",
@@ -2309,7 +6372,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": "Rafael",
     "is_deleted": false,
@@ -2332,7 +6395,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "300-TA",
@@ -2361,7 +6424,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": null,
     "is_deleted": false,
@@ -2383,7 +6446,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "373-MA",
@@ -2411,7 +6474,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": null,
     "is_deleted": false,
@@ -2435,7 +6498,7 @@
       "images/1778490669385_tubqbpktel.webp"
     ],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "374-MA",
@@ -2461,7 +6524,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": "Rafael",
     "is_deleted": false,
@@ -2483,7 +6546,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "342-BL-DRF",
@@ -2510,7 +6573,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": null,
     "is_deleted": false,
@@ -2532,7 +6595,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "342-BL",
@@ -2559,7 +6622,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.006Z",
+    "updated_at": "2026-05-14T04:04:42.006+00:00",
     "files": [],
     "updated_by_username": null,
     "is_deleted": false,
@@ -2581,7 +6644,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "300-BL-DRF",
@@ -2608,7 +6671,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": null,
     "is_deleted": false,
@@ -2631,7 +6694,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "28L",
@@ -2660,7 +6723,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.007Z",
+    "updated_at": "2026-05-14T04:04:42.007+00:00",
     "files": [],
     "updated_by_username": null,
     "is_deleted": false,
@@ -2682,7 +6745,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "pails"
+      "Pails"
     ],
     "tags": [
       "300-BL",
@@ -2709,7 +6772,7 @@
     "created_by": null,
     "created_by_username": null,
     "created_at": "2026-05-04T00:21:02.439033+00:00",
-    "updated_at": "2026-05-14T04:04:42.006Z",
+    "updated_at": "2026-05-14T04:04:42.006+00:00",
     "files": [],
     "updated_by_username": "Rafael",
     "is_deleted": false,
@@ -3677,7 +7740,7 @@
       "images/1776735153341_6cdtag4aesr.webp"
     ],
     "categories": [
-      "Tower",
+      "Towers",
       "Dragonfire"
     ],
     "tags": [
@@ -3748,7 +7811,7 @@
       "images/1776733964865_ngl82znl9ne.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -3824,7 +7887,7 @@
       "images/1776733733716_x57fzcl8ahc.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -3891,7 +7954,7 @@
       "images/1776732602374_gek8bwalbv.webp"
     ],
     "categories": [
-      "Tower",
+      "Towers",
       "Dragonfire"
     ],
     "tags": [
@@ -3987,7 +8050,7 @@
       "images/1776732456744_88ia0kz0mzq.webp"
     ],
     "categories": [
-      "Tower",
+      "Towers",
       "Dragonfire"
     ],
     "tags": [
@@ -4076,7 +8139,7 @@
       "images/1776731776525_lo5k1d5nyml.webp"
     ],
     "categories": [
-      "Tower",
+      "Towers",
       "Dragonfire"
     ],
     "tags": [
@@ -4154,7 +8217,7 @@
       "images/1776731478187_cn8vsp65i1p.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -4219,7 +8282,7 @@
       "images/1776731120332_wspvm9273ds.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -4288,7 +8351,7 @@
       "images/1776730890489_3w9fczopg9e.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -4354,7 +8417,7 @@
       "images/1776730567143_u8hv65ns61f.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "Black",
@@ -4420,7 +8483,7 @@
       "images/1776729203323_liqy1a3l0qc.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -4485,7 +8548,7 @@
       "images/1776729025056_fmfsq6bvbr.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -4553,7 +8616,7 @@
       "images/1776728916949_7f34q224a7.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -4620,7 +8683,7 @@
       "images/1776728761459_dpc84z47u9s.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -4687,7 +8750,7 @@
       "images/1776728615368_escn5corzl.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -4753,7 +8816,7 @@
       "images/1776728477096_ct5l94r5o1m.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -4820,7 +8883,7 @@
       "images/1776728188203_upwc2mq8xep.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -4886,7 +8949,7 @@
       "images/1776727874806_3pvpzoik2pe.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "Black",
@@ -4955,7 +9018,7 @@
       "images/1776727751270_cyjmyilmerp.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -5024,7 +9087,7 @@
       "images/1776727596632_kovlvl6taje.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -5092,7 +9155,7 @@
       "images/1776727240980_9snm8tt1bda.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -5159,7 +9222,7 @@
       "images/1776727013187_z7gmypg61m8.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "Black",
@@ -5229,7 +9292,7 @@
       "images/1776678957062_ad6wblhwj1e.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -5296,7 +9359,7 @@
       "images/1776678814377_t4fr2golotn.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "18.0kW",
@@ -5376,7 +9439,7 @@
       "images/1776678022017_a946bt65fyu.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "18.0kW",
@@ -5455,7 +9518,7 @@
       "images/1776677798464_h6kgoxwc5iq.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -5525,7 +9588,7 @@
       "images/1776677169139_j8ovtab9kv.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -5595,7 +9658,7 @@
       "images/1776676624974_mzcq3nzu63d.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "NB",
@@ -5668,7 +9731,7 @@
       "images/1776676415761_65s04kl78dy.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "Innova",
@@ -5746,7 +9809,7 @@
       "images/1776676145717_50v3w60ys6g.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "12.0kW",
@@ -5808,7 +9871,7 @@
       "images/1776675395035_foofo2q3hob.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "Ni2",
@@ -5883,7 +9946,7 @@
       "images/1776675293386_vuwcfizgebq.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "NB",
@@ -5954,7 +10017,7 @@
       "images/1776675156267_0x9jommbqtqa.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "Innova",
@@ -6046,7 +10109,7 @@
       "images/1776674974880_2646au6nnyo.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "24.0kW",
@@ -6119,7 +10182,7 @@
       "images/1776674630032_c7da0uu82od.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "Ni2",
@@ -6192,7 +10255,7 @@
       "images/1776674501450_ooocf6hibd.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "Bench",
@@ -6265,7 +10328,7 @@
     ],
     "spec_images": [],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "24.0kW",
@@ -6358,7 +10421,7 @@
       "images/1776674162081_fkjs06dxwfu.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "24.0kW",
@@ -6435,7 +10498,7 @@
       "images/1776673991948_dnt6fgejixj.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "Bench",
@@ -6510,7 +10573,7 @@
       "images/1776673848891_4n3ptj7uj72.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -6575,7 +10638,7 @@
       "images/1776673692434_dgc5tzu7e5q.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -6641,7 +10704,7 @@
       "images/1776673547761_fsjb9kck6a7.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "12.0kW",
@@ -6712,7 +10775,7 @@
       "images/1776673385731_dpnhxj1m92k.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "12.0kW",
@@ -6782,7 +10845,7 @@
       "images/1776673231856_irpa1t3rmzm.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -6848,7 +10911,7 @@
       "images/1776673036543_9f1cshvrxpf.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -6913,7 +10976,7 @@
       "images/1776672841691_zje6iy7apmj.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -6980,7 +11043,7 @@
       "images/1776672699189_bbavh6583sm.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -7043,7 +11106,7 @@
       "images/1776672530198_ynxu1p36lu.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "24.0kW",
@@ -7120,7 +11183,7 @@
       "images/1776672346955_qwzas3kbzn9.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "24.0kW",
@@ -7195,7 +11258,7 @@
       "images/1776671949338_trqol84yrll.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -7262,7 +11325,7 @@
       "images/1776671756362_6ybp0kvw444.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -7326,7 +11389,7 @@
       "images/1776671505004_6jwt4yrjmnd.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -7392,7 +11455,7 @@
       "images/1776670782827_gs4ks2qvf0t.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -7463,7 +11526,7 @@
       "images/1776669555342_mc1gk61jatb.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "24.0kW",
@@ -7545,7 +11608,7 @@
       "images/1776669368096_svdv3ittvvb.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "24.0kW",
@@ -7622,7 +11685,7 @@
       "images/1776669135088_9f6iyrou1cv.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -7693,7 +11756,7 @@
       "images/1776668781190_84gmee4zx13.webp"
     ],
     "categories": [
-      "Tower"
+      "Towers"
     ],
     "tags": [
       "4.5 – 9.0kW",
@@ -9658,8 +13721,8 @@
     "id": "960809d7-d1b5-473f-b4a0-af7b982f10d1",
     "name": "Nordex Combi Black NS",
     "slug": "nordex-combi-black-ns",
-    "short_description": "<span style=\"text-align: justify;\">The </span><strong style=\"text-align: justify;\">Nordex Combi</strong><span style=\"text-align: justify;\"> upgrades the Nordex heatersÃ¢â‚¬â„¢ minimalist, high-tech modern design and maximum versatility with an integrated steamer. Bathers get to enjoy spa-like sauna sessions with steam infused with essential oils and fragrances added using the heaterÃ¢â‚¬â„¢s built-in aroma cups.</span>",
-    "description": "<table>\n  <thead>\n<tr>\n  <th>Heater Model</th>\n  <th>kW\n<br>Heater</th>\n  <th>kW\n<br>Tank</th>\n  <th>Sauna Room<br>min. (mÃ‚Â³) max.</th>\n  <th>Size of Heater (mm)<br>Length Width Height</th>\n  <th>Stones<br>(kg)</th>\n  <th colspan=\"2\">Control</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td>NRNC-60NS-BL-Z-C</td>\n  <td>6.0</td>\n  <td>1 x 0.8</td>\n  <td>5 Ã¢â‚¬â€œ 9</td>\n  <td>385 x 400 x 610</td>\n  <td>22</td>\n  <td>Innova</td>\n  <td></td>\n</tr>\n<tr>\n  <td>NRNC-80NS-BL-Z-C</td>\n  <td>8.0</td>\n  <td>1 x 2.0</td>\n  <td>7 Ã¢â‚¬â€œ 13</td>\n  <td>385 x 400 x 610</td>\n  <td>22</td>\n  <td>Innova</td>\n  <td></td>\n</tr>\n<tr>\n  <td>NRNC-90NS-BL-Z-C</td>\n  <td>9.0</td>\n  <td>1 x 2.0</td>\n  <td>8 Ã¢â‚¬â€œ 14</td>\n  <td>385 x 400 x 610</td>\n  <td>22</td>\n  <td>Innova</td>\n  <td></td>\n</tr></tbody></table>",
+    "short_description": "<span style=\"text-align: justify;\">The </span><strong style=\"text-align: justify;\">Nordex Combi</strong><span style=\"text-align: justify;\"> upgrades the Nordex heatersÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ minimalist, high-tech modern design and maximum versatility with an integrated steamer. Bathers get to enjoy spa-like sauna sessions with steam infused with essential oils and fragrances added using the heaterÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢s built-in aroma cups.</span>",
+    "description": "<table>\n  <thead>\n<tr>\n  <th>Heater Model</th>\n  <th>kW\n<br>Heater</th>\n  <th>kW\n<br>Tank</th>\n  <th>Sauna Room<br>min. (mÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â³) max.</th>\n  <th>Size of Heater (mm)<br>Length Width Height</th>\n  <th>Stones<br>(kg)</th>\n  <th colspan=\"2\">Control</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td>NRNC-60NS-BL-Z-C</td>\n  <td>6.0</td>\n  <td>1 x 0.8</td>\n  <td>5 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ 9</td>\n  <td>385 x 400 x 610</td>\n  <td>22</td>\n  <td>Innova</td>\n  <td></td>\n</tr>\n<tr>\n  <td>NRNC-80NS-BL-Z-C</td>\n  <td>8.0</td>\n  <td>1 x 2.0</td>\n  <td>7 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ 13</td>\n  <td>385 x 400 x 610</td>\n  <td>22</td>\n  <td>Innova</td>\n  <td></td>\n</tr>\n<tr>\n  <td>NRNC-90NS-BL-Z-C</td>\n  <td>9.0</td>\n  <td>1 x 2.0</td>\n  <td>8 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ 14</td>\n  <td>385 x 400 x 610</td>\n  <td>22</td>\n  <td>Innova</td>\n  <td></td>\n</tr></tbody></table>",
     "thumbnail": "images/1776220493325_qi4ndvwbuz.webp",
     "images": [
       "https://qsdfdfuooeythaioucpx.supabase.co/storage/v1/object/public/product-images/1776217362100_yotzluh44x.webp"
@@ -10284,7 +14347,7 @@
     "name": "Silicon Wire",
     "slug": "silicon-wire",
     "short_description": "<span style=\"text-align: justify;\">High-quality silicone wire designed for use with sensors and the Innova Light Extension Module. Built to withstand high temperatures, it ensures reliable connections and performance in sauna environments.</span>",
-    "description": "<table>\n  <thead>\n<tr>\n  <th colspan=\"2\">PRODUCT DIMENSIONS</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td>Silicon Wire 5M\n(INN-WSIL5)</td>\n  <td>5M 4 x 0.25mmÃ‚Â² Silicon Wire</td>\n</tr>\n<tr>\n  <td>Silicon Wire 10M\n(INN-WSIL10)</td>\n  <td>10M 4 x 0.25mmÃ‚Â² Silicon Wire</td>\n</tr>\n<tr>\n  <td>Silicon Wire 25M\n(INN-WSIL25)</td>\n  <td>25M 4 x 0.25mmÃ‚Â² Silicon Wire</td>\n</tr></tbody></table>",
+    "description": "<table>\n  <thead>\n<tr>\n  <th colspan=\"2\">PRODUCT DIMENSIONS</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td>Silicon Wire 5M\n(INN-WSIL5)</td>\n  <td>5M 4 x 0.25mmÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â² Silicon Wire</td>\n</tr>\n<tr>\n  <td>Silicon Wire 10M\n(INN-WSIL10)</td>\n  <td>10M 4 x 0.25mmÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â² Silicon Wire</td>\n</tr>\n<tr>\n  <td>Silicon Wire 25M\n(INN-WSIL25)</td>\n  <td>25M 4 x 0.25mmÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â² Silicon Wire</td>\n</tr></tbody></table>",
     "thumbnail": "images/1776157507821_60b0sg78guo.webp",
     "images": [],
     "spec_images": [],
@@ -10411,7 +14474,7 @@
     "name": "Innova Classic Built-In",
     "slug": "innova-classic-built-in",
     "short_description": "<p style=\"text-align: justify;\"><b>Innova Classic built-in</b> control unit consists of a power controller with an integrated control panel. It is equipped with the same features same as the Innova Classic separate control unit. The only difference is that all comes in one neat package!\n\n</p><p style=\"text-align: justify;\"><b>Separate Innova Contactor Unit is required when heater power is exceeding 15 kW.</b></p>",
-    "description": "<table>\n  <thead>\n<tr>\n  <th>Description</th>\n  <th>Power Rating</th>\n  <th>Remarks</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td><b>Control</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>15kW AC1 (3x5kW)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>9kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage Single Phases</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>21A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Sauna temperature range</td>\n  <td>40-110Ã‚Â°C</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum session time(preset)</td>\n  <td>4,6,12,18,24h</td>\n  <td>Restrictions apply according to IEC/EN 60335-2-53</td>\n</tr>\n<tr>\n  <td><b>Dimensions INNOVA S types</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>(W) 180 x (H) 105 x (D) 31</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>(W) 265 x (H) 245 x (D) 75</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Dimensions INNOVA B types</td>\n  <td>(W) 265 x (H) 245 x (D) 75</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Weight INNOVA S types</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>150g(touch)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>1500g</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Weight INNOVA B types</td>\n  <td>1630g(Touch)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>5kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>3kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity</td>\n  <td>21A(3 Phases), 13A (1 Phase)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum sauna temperature for steamer operation</td>\n  <td>80Ã‚Â°C or *55Ã‚Â°C *Depending on the type of Sensor 2.</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Automatic water filling</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Automatic drain valve</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td><b>Cabin Light</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,100W AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Fan</td>\n  <td></td>\n  <td>Optional (with speed control)</td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,0.5A</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Power Extension Unit</b></td>\n  <td></td>\n  <td>Power expansion up to a maximum of</td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>15kW AC1(3x5kW)</td>\n  <td>30kW</td>\n</tr>\n<tr>\n  <td>Rated Voltages 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>21A</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Sensor</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Sensors</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Bench Combined Temperature Ã¢â‚¬â€œ Humidity Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr></tbody></table>",
+    "description": "<table>\n  <thead>\n<tr>\n  <th>Description</th>\n  <th>Power Rating</th>\n  <th>Remarks</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td><b>Control</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>15kW AC1 (3x5kW)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>9kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage Single Phases</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>21A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Sauna temperature range</td>\n  <td>40-110ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum session time(preset)</td>\n  <td>4,6,12,18,24h</td>\n  <td>Restrictions apply according to IEC/EN 60335-2-53</td>\n</tr>\n<tr>\n  <td><b>Dimensions INNOVA S types</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>(W) 180 x (H) 105 x (D) 31</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>(W) 265 x (H) 245 x (D) 75</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Dimensions INNOVA B types</td>\n  <td>(W) 265 x (H) 245 x (D) 75</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Weight INNOVA S types</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>150g(touch)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>1500g</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Weight INNOVA B types</td>\n  <td>1630g(Touch)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>5kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>3kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity</td>\n  <td>21A(3 Phases), 13A (1 Phase)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum sauna temperature for steamer operation</td>\n  <td>80ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C or *55ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C *Depending on the type of Sensor 2.</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Automatic water filling</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Automatic drain valve</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td><b>Cabin Light</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,100W AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Fan</td>\n  <td></td>\n  <td>Optional (with speed control)</td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,0.5A</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Power Extension Unit</b></td>\n  <td></td>\n  <td>Power expansion up to a maximum of</td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>15kW AC1(3x5kW)</td>\n  <td>30kW</td>\n</tr>\n<tr>\n  <td>Rated Voltages 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>21A</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Sensor</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Sensors</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Bench Combined Temperature ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ Humidity Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr></tbody></table>",
     "thumbnail": "images/1776156718614_nj3tfwnq6dh.webp",
     "images": [
       "images/1776156727881_b483atddk2v.webp"
@@ -10465,7 +14528,7 @@
     "name": "Innova Classic",
     "slug": "innova-classic",
     "short_description": "<div style=\"text-align: justify;\"><p><b>Separate control unit</b><br>Innova Classic control unit consists of a separate control panel and a power controller which can handle power up to 15 kW. It is packed with features such as door sensor, pre-timer, smart energy-saving, and steady and even power distribution! It has a clear LED-display and seven buttons for easy use. Temperature sensor with over-heat fuse and 4 m connection cable are included in the package.</p><p>Separate Innova Contactor Unit is required when heater power is exceeding 15 kW.\n\n</p></div><div style=\"text-align: justify;\"><p><b>Built-in control unit</b><br>Innova Classic built-in control unit consists of a power controller with an integrated control panel. It is equipped with the same features same as the Innova Classic separate control unit. The only difference is that all comes in one neat package!\n\n</p><p><b>Separate Innova Contactor Unit is required when heater power is exceeding 15 kW.</b></p></div>",
-    "description": "<table>\n  <thead>\n<tr>\n  <th>Description</th>\n  <th>Power Rating</th>\n  <th>Remarks</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td><b>Control</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>15kW AC1 (3x5kW)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>9kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage Single Phases</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>21A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Sauna temperature range</td>\n  <td>40-110Ã‚Â°C</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum session time(preset)</td>\n  <td>4,6,12,18,24h</td>\n  <td>Restrictions apply according to IEC/EN 60335-2-53</td>\n</tr>\n<tr>\n  <td><b>Dimensions INNOVA S types</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>(W) 180 x (H) 105 x (D) 31</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>(W) 265 x (H) 245 x (D) 75</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Dimensions INNOVA B types</b></td>\n  <td>(W) 265 x (H) 245 x (D) 75</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Weight INNOVA S types</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>150g(touch)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>1500g</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Weight INNOVA B types</td>\n  <td>1630g(Touch)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>5kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>3kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity</td>\n  <td>21A(3 Phases), 13A (1 Phase)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum sauna temperature for steamer operation</td>\n  <td>80Ã‚Â°C or *55Ã‚Â°C *Depending on the type of Sensor 2.</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Automatic water filling</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Automatic drain valve</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td><b>Cabin Light</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,100W AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Fan</td>\n  <td></td>\n  <td>Optional (with speed control)</td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,0.5A</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Power Extension Unit</b></td>\n  <td></td>\n  <td>Power expansion up to a maximum of</td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>15kW AC1(3x5kW)</td>\n  <td>30kW</td>\n</tr>\n<tr>\n  <td>Rated Voltages 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>21A</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Sensor</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Sensors</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Bench Combined Temperature Ã¢â‚¬â€œ Humidity Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr></tbody></table>",
+    "description": "<table>\n  <thead>\n<tr>\n  <th>Description</th>\n  <th>Power Rating</th>\n  <th>Remarks</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td><b>Control</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>15kW AC1 (3x5kW)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>9kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage Single Phases</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>21A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Sauna temperature range</td>\n  <td>40-110ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum session time(preset)</td>\n  <td>4,6,12,18,24h</td>\n  <td>Restrictions apply according to IEC/EN 60335-2-53</td>\n</tr>\n<tr>\n  <td><b>Dimensions INNOVA S types</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>(W) 180 x (H) 105 x (D) 31</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>(W) 265 x (H) 245 x (D) 75</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Dimensions INNOVA B types</b></td>\n  <td>(W) 265 x (H) 245 x (D) 75</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Weight INNOVA S types</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>150g(touch)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>1500g</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Weight INNOVA B types</td>\n  <td>1630g(Touch)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>5kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>3kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity</td>\n  <td>21A(3 Phases), 13A (1 Phase)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum sauna temperature for steamer operation</td>\n  <td>80ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C or *55ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C *Depending on the type of Sensor 2.</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Automatic water filling</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Automatic drain valve</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td><b>Cabin Light</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,100W AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Fan</td>\n  <td></td>\n  <td>Optional (with speed control)</td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,0.5A</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Power Extension Unit</b></td>\n  <td></td>\n  <td>Power expansion up to a maximum of</td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>15kW AC1(3x5kW)</td>\n  <td>30kW</td>\n</tr>\n<tr>\n  <td>Rated Voltages 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>21A</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Sensor</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Sensors</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Bench Combined Temperature ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ Humidity Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr></tbody></table>",
     "thumbnail": "images/1776156108647_gjg0rjbogrg.webp",
     "images": [
       "images/1776156492651_4o6pgerkgdf.webp"
@@ -10518,7 +14581,7 @@
     "name": "Innova Stainless Steel Touch",
     "slug": "innova-stainless-steel-touch",
     "short_description": "<span style=\"text-align: justify;\">Modern and stylish </span><b style=\"text-align: justify;\">Innova Stainless Steel Touch</b><span style=\"text-align: justify;\"> is equipped with useful features which make your sauna experience more enjoyable.</span>",
-    "description": "<table>\n  <thead>\n<tr>\n  <th>Description</th>\n  <th>Power Rating</th>\n  <th>Remarks</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td><b>Control</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>15kW AC1 (3x5kW)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>9kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage Single Phases</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>21A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Sauna temperature range</td>\n  <td>40-110Ã‚Â°C</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum session time(preset)</td>\n  <td>4,6,12,18,24h</td>\n  <td>Restrictions apply according to IEC/EN 60335-2-53</td>\n</tr>\n<tr>\n  <td><b>Dimensions INNOVA S types</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>(W) 180 x (H) 105 x (D) 31</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>(W) 265 x (H) 245 x (D) 75</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Dimensions INNOVA B types</td>\n  <td>(W) 265 x (H) 245 x (D) 75</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Weight INNOVA S types</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>150g (Touch)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>1500g</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Weight INNOVA B types</td>\n  <td>1630g(Touch)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Steamer</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>5kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>3kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity</td>\n  <td>21A(3 Phases), 13A (1 Phase)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum sauna temperature for steamer operation</td>\n  <td>80Ã‚Â°C or *55Ã‚Â°C *Depending on the type of Sensor 2.</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Automatic water filling</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Automatic drain valve</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Cabin Light</td>\n  <td></td>\n  <td>Dimmer optional</td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,100W AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Fan</td>\n  <td></td>\n  <td>Optional (with speed control)</td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,0.5A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Contactor Unit</td>\n  <td></td>\n  <td>Additional Power expansion to maximum of 30kW</td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>15kW AC1(3x5kW)</td>\n  <td>30kW</td>\n</tr>\n<tr>\n  <td>Rated Voltages 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>21A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Sensor</td>\n  <td></td>\n  <td>Dimmer optional</td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Bench Sensors</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Bench Combined Temperature Ã¢â‚¬â€œ Humidity Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr></tbody></table>",
+    "description": "<table>\n  <thead>\n<tr>\n  <th>Description</th>\n  <th>Power Rating</th>\n  <th>Remarks</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td><b>Control</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>15kW AC1 (3x5kW)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>9kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage Single Phases</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>21A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Sauna temperature range</td>\n  <td>40-110ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum session time(preset)</td>\n  <td>4,6,12,18,24h</td>\n  <td>Restrictions apply according to IEC/EN 60335-2-53</td>\n</tr>\n<tr>\n  <td><b>Dimensions INNOVA S types</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>(W) 180 x (H) 105 x (D) 31</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>(W) 265 x (H) 245 x (D) 75</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Dimensions INNOVA B types</td>\n  <td>(W) 265 x (H) 245 x (D) 75</td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Weight INNOVA S types</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>150g (Touch)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>1500g</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Weight INNOVA B types</td>\n  <td>1630g(Touch)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Steamer</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>5kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>3kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity</td>\n  <td>21A(3 Phases), 13A (1 Phase)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum sauna temperature for steamer operation</td>\n  <td>80ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C or *55ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C *Depending on the type of Sensor 2.</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Automatic water filling</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Automatic drain valve</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Cabin Light</td>\n  <td></td>\n  <td>Dimmer optional</td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,100W AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Fan</td>\n  <td></td>\n  <td>Optional (with speed control)</td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,0.5A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Contactor Unit</td>\n  <td></td>\n  <td>Additional Power expansion to maximum of 30kW</td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>15kW AC1(3x5kW)</td>\n  <td>30kW</td>\n</tr>\n<tr>\n  <td>Rated Voltages 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>21A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Sensor</td>\n  <td></td>\n  <td>Dimmer optional</td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td><b>Bench Sensors</b></td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Bench Combined Temperature ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ Humidity Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr></tbody></table>",
     "thumbnail": "images/1776155026420_9gvv5m477v.webp",
     "images": [],
     "spec_images": [],
@@ -10573,7 +14636,7 @@
     "name": "Innova 2.0 Contactor Unit",
     "slug": "innova-2-0-contactor-unit",
     "short_description": "<p style=\"text-align: justify;\">Connect the <b>Innova 2.0 Contactor Unit</b> with Innova 2.0 Power Controller to use with heaters over 15kW.</p><p style=\"text-align: justify;\">The casing has more room in it for the electrician to work with, which makes installation easier than ever! New modernized casing has more space for easier and faster installation. Flexible wiring options with strain relief provision on 4 sides, including the back part for wiring to be completely hidden.</p>",
-    "description": "<table>\n  <thead>\n<tr>\n  <th colspan=\"2\">TECHNICAL DETAILS</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td>Suitable Heaters</td>\n  <td>15 Ã¢â‚¬â€œ 30kW</td>\n</tr>\n<tr>\n  <td>Rated Voltage</td>\n  <td>400V 3N~ (3Phase)</td>\n</tr>\n<tr>\n  <td colspan=\"2\" style=\"text-align: center;\"><b>PRODUCT DIMENSIONS</b></td>\n</tr>\n<tr>\n  <td>Innova 2.0 Contactor Unit\n(INP-S-V2)</td>\n  <td>L: 32cm x H: 27cm x W: 8cm\n2.4KG</td>\n</tr></tbody></table>",
+    "description": "<table>\n  <thead>\n<tr>\n  <th colspan=\"2\">TECHNICAL DETAILS</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td>Suitable Heaters</td>\n  <td>15 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ 30kW</td>\n</tr>\n<tr>\n  <td>Rated Voltage</td>\n  <td>400V 3N~ (3Phase)</td>\n</tr>\n<tr>\n  <td colspan=\"2\" style=\"text-align: center;\"><b>PRODUCT DIMENSIONS</b></td>\n</tr>\n<tr>\n  <td>Innova 2.0 Contactor Unit\n(INP-S-V2)</td>\n  <td>L: 32cm x H: 27cm x W: 8cm\n2.4KG</td>\n</tr></tbody></table>",
     "thumbnail": "images/1776154812061_qv3q2hfrx6d.webp",
     "images": [],
     "spec_images": [],
@@ -10835,8 +14898,8 @@
     "id": "9d7a2dce-595f-4391-82fc-cd7cbcc72a1c",
     "name": "Saunova 2.0 Contactor Unit",
     "slug": "saunova-2-0-contactor-unit",
-    "short_description": "<p style=\"text-align: justify;\">The <strong>Saunova 2.0 Contactor Unit (SAU-PS-V2)</strong> connects to the Saunova 2.0 Power Controller, enabling reliable control of NS sauna heaters rated over 9kW. Designed for high-powered sauna configurations, it delivers a safe and efficient solution for installations that exceed standard power requirements.\n\n</p><p style=\"text-align: justify;\">The modernized casing provides additional internal space for easier and faster installation. Flexible wiring options with strain relief provisions on all four sides Ã¢â‚¬â€ including the rear panel Ã¢â‚¬â€ allow cables to be completely hidden, ensuring a clean and professional finish.</p>\n<span style=\"text-align: justify;\"><b>Use with NS Heaters over 9kW. Connect with Saunova Power Controller</b></span>",
-    "description": "<table>\n  <thead>\n<tr>\n  <th colspan=\"2\">TECHNICAL DETAILS</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td>Suitable Heaters</td>\n  <td>9 Ã¢â‚¬â€œ 18kW*</td>\n</tr>\n<tr>\n  <td>Rated Voltage</td>\n  <td>400V 3N~ (3Phase)</td>\n</tr>\n<tr>\n  <td colspan=\"2\" style=\"text-align: center;\"><b>PRODUCT DIMENSIONS</b></td>\n</tr>\n<tr>\n  <td>Saunova 2.0 Contactor Unit\n(SAU-PS-V2)</td>\n  <td>L: 32cm x H: 27cm x W: 8cm 1.9KG</td>\n</tr></tbody></table>",
+    "short_description": "<p style=\"text-align: justify;\">The <strong>Saunova 2.0 Contactor Unit (SAU-PS-V2)</strong> connects to the Saunova 2.0 Power Controller, enabling reliable control of NS sauna heaters rated over 9kW. Designed for high-powered sauna configurations, it delivers a safe and efficient solution for installations that exceed standard power requirements.\n\n</p><p style=\"text-align: justify;\">The modernized casing provides additional internal space for easier and faster installation. Flexible wiring options with strain relief provisions on all four sides ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â including the rear panel ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â allow cables to be completely hidden, ensuring a clean and professional finish.</p>\n<span style=\"text-align: justify;\"><b>Use with NS Heaters over 9kW. Connect with Saunova Power Controller</b></span>",
+    "description": "<table>\n  <thead>\n<tr>\n  <th colspan=\"2\">TECHNICAL DETAILS</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td>Suitable Heaters</td>\n  <td>9 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ 18kW*</td>\n</tr>\n<tr>\n  <td>Rated Voltage</td>\n  <td>400V 3N~ (3Phase)</td>\n</tr>\n<tr>\n  <td colspan=\"2\" style=\"text-align: center;\"><b>PRODUCT DIMENSIONS</b></td>\n</tr>\n<tr>\n  <td>Saunova 2.0 Contactor Unit\n(SAU-PS-V2)</td>\n  <td>L: 32cm x H: 27cm x W: 8cm 1.9KG</td>\n</tr></tbody></table>",
     "thumbnail": "images/1776150951388_to8rtmd0rq.webp",
     "images": [],
     "spec_images": [],
@@ -10938,7 +15001,7 @@
     "name": "Saunova 2.0 Built-In",
     "slug": "saunova-2-0-built-in",
     "short_description": "<p style=\"text-align: justify;\">\nThe <b>Saunova 2.0</b> Built-In combines the control panel and power controller in same package. It has a modern and stylish look, and now with more flexible installation possibilities. The control remembers your personal settings, such as session time and temperature, allowing to have consistent sauna experience.\n</p><p style=\"text-align: justify;\">The control uses smart technology which automatically shuts off heating elements when set temperature has been reached. When temperature goes down, it wakes up the necessary heating elements. Not only this keeps the temperature steady but makes the heating element lifespan longer and saves energy!\n\n</p><p style=\"text-align: justify;\">The control casing has more room in it for the electrician to work with, which makes installation easier than ever! Flexible wiring options with strain relief provision on 4 sides, including the back part for wiring to be completely hidden.</p>",
-    "description": "<table>\n  <thead>\n<tr>\n  <th colspan=\"2\">TECHNICAL DETAILS</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td>Suitable Heaters</td>\n  <td>2.3 Ã¢â‚¬â€œ 9kW*\n* with Contactor Unit 9-18kW</td>\n</tr>\n<tr>\n  <td>Temperature Range</td>\n  <td>10Ã‚Â° -110Ã‚Â°C</td>\n</tr>\n<tr>\n  <td>Rated Voltage</td>\n  <td>400V 3N~ (3Phase)\n230V 1N~ (1Phase)</td>\n</tr>\n<tr>\n  <td>Max. Session Time</td>\n  <td>1h, 2h,4h, 6h, 12h, 18h, 24h</td>\n</tr>\n<tr>\n  <td colspan=\"2\" style=\"text-align: center;\"><b>PRODUCT DIMENSIONS</b></td>\n</tr>\n<tr>\n  <td>Saunova 2.0 Built-In Control\n(SAU-B-V2)</td>\n  <td>L: 32cm x H: 27cm x W: 8cm\n2.16KG</td>\n</tr>\n<tr>\n  <td>Saunova 2.0 Built-In Control with\nCombi &amp; Fan\n(SAU-B-CF-V2)</td>\n  <td>L: 32cm x H: 27cm x W: 8cm\n2.16KG</td>\n</tr>\n</tbody></table>",
+    "description": "<table>\n  <thead>\n<tr>\n  <th colspan=\"2\">TECHNICAL DETAILS</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td>Suitable Heaters</td>\n  <td>2.3 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ 9kW*\n* with Contactor Unit 9-18kW</td>\n</tr>\n<tr>\n  <td>Temperature Range</td>\n  <td>10ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â° -110ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C</td>\n</tr>\n<tr>\n  <td>Rated Voltage</td>\n  <td>400V 3N~ (3Phase)\n230V 1N~ (1Phase)</td>\n</tr>\n<tr>\n  <td>Max. Session Time</td>\n  <td>1h, 2h,4h, 6h, 12h, 18h, 24h</td>\n</tr>\n<tr>\n  <td colspan=\"2\" style=\"text-align: center;\"><b>PRODUCT DIMENSIONS</b></td>\n</tr>\n<tr>\n  <td>Saunova 2.0 Built-In Control\n(SAU-B-V2)</td>\n  <td>L: 32cm x H: 27cm x W: 8cm\n2.16KG</td>\n</tr>\n<tr>\n  <td>Saunova 2.0 Built-In Control with\nCombi &amp; Fan\n(SAU-B-CF-V2)</td>\n  <td>L: 32cm x H: 27cm x W: 8cm\n2.16KG</td>\n</tr>\n</tbody></table>",
     "thumbnail": "images/1776149117216_no2wfvd6gkl.webp",
     "images": [],
     "spec_images": [],
@@ -10989,7 +15052,7 @@
     "name": "Saunova 2.0",
     "slug": "saunova-2-0",
     "short_description": "Saunova 2.0 is a practical control for small heaters up to 9 kilowatts. Perfect combined with Ni2 heaters, on which you will no longer need to have separate power controller.  Saunova 2.0 user interface can be placed inside or outside the sauna room! The system is with a smart controlling that alternately shuts down a heating element when a set temperature is reached. This process reduces temperature fluctuations that keeps heating elements to work at a balanced pace. Even more precise temperature measuring with additional bench sensor.",
-    "description": "<table>\n  <thead>\n<tr>\n  <th>Description</th>\n  <th>Power Rating</th>\n  <th>Remarks</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td>Control</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>9kW AC1 (3x3kW)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>9kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage Single Phases</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>16A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Sauna temperature range</td>\n  <td>10-110Ã‚Â°C</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum session time(preset)</td>\n  <td>1,2,4,6,12,18,24h</td>\n  <td>Restrictions apply according to IEC/EN 60335-2-53</td>\n</tr>\n<tr>\n  <td>Dimensions INNOVA S types</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>(W) 104 x (H) 147 x (D) 37</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>(W) 265 x (H) 245 x (D) 75</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Weight INNOVA S types</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>350g</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>1150g</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>5kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>3kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity</td>\n  <td>16A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum sauna temperature for steamer operation</td>\n  <td>80Ã‚Â°C or *55Ã‚Â°C *Depending on the type of Sensor 2.</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Automatic water filling</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Cabin Light</td>\n  <td></td>\n  <td>Min 20W, max 100W</td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,100W AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Fan</td>\n  <td></td>\n  <td>Fan without starting capacitor.</td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,0.5A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Extension Unit</td>\n  <td></td>\n  <td>Power expansion up to a maximum of</td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>9kW AC1(3x3kW)</td>\n  <td>18kW</td>\n</tr>\n<tr>\n  <td>Rated Voltages 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>16A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Sensor</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Sensors</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Bench Combined Temperature Ã¢â‚¬â€œ Humidity Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n</tbody></table>",
+    "description": "<table>\n  <thead>\n<tr>\n  <th>Description</th>\n  <th>Power Rating</th>\n  <th>Remarks</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td>Control</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>9kW AC1 (3x3kW)</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>9kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage Single Phases</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>16A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Sauna temperature range</td>\n  <td>10-110ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum session time(preset)</td>\n  <td>1,2,4,6,12,18,24h</td>\n  <td>Restrictions apply according to IEC/EN 60335-2-53</td>\n</tr>\n<tr>\n  <td>Dimensions INNOVA S types</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>(W) 104 x (H) 147 x (D) 37</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>(W) 265 x (H) 245 x (D) 75</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Weight INNOVA S types</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>User Interface</td>\n  <td>350g</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Controller</td>\n  <td>1150g</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>5kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Power Single Phases</td>\n  <td>3kW AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Rated Voltage</td>\n  <td>230V 1N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity</td>\n  <td>16A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Maximum sauna temperature for steamer operation</td>\n  <td>80ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C or *55ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°C *Depending on the type of Sensor 2.</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Automatic water filling</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Cabin Light</td>\n  <td></td>\n  <td>Min 20W, max 100W</td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,100W AC1</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Fan</td>\n  <td></td>\n  <td>Fan without starting capacitor.</td>\n</tr>\n<tr>\n  <td>Rating</td>\n  <td>230V 1N~,0.5A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Power Extension Unit</td>\n  <td></td>\n  <td>Power expansion up to a maximum of</td>\n</tr>\n<tr>\n  <td>Rated Power 3 Phases</td>\n  <td>9kW AC1(3x3kW)</td>\n  <td>18kW</td>\n</tr>\n<tr>\n  <td>Rated Voltages 3 Phases</td>\n  <td>400V 3N~</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Frequency</td>\n  <td>50/60Hz</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Switching capacity per phase</td>\n  <td>16A</td>\n  <td></td>\n</tr>\n<tr>\n  <td>Sensor</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Sensors</td>\n  <td></td>\n  <td></td>\n</tr>\n<tr>\n  <td>Bench Temperature Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n<tr>\n  <td>Bench Combined Temperature ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ Humidity Sensor</td>\n  <td></td>\n  <td>Optional</td>\n</tr>\n</tbody></table>",
     "thumbnail": "images/1776148856716_pc0rhg99g2b.webp",
     "images": [
       "images/1776149043780_pdzdsbtkhdr.webp"
@@ -11201,7 +15264,7 @@
       "images/1776058313972_l7fhlo2ixt.webp"
     ],
     "categories": [
-      "Stone",
+      "Stones",
       "Combi"
     ],
     "tags": [
@@ -11270,7 +15333,7 @@
       "images/1776058221936_nlei9yqoaf9.webp"
     ],
     "categories": [
-      "Stone"
+      "Stones"
     ],
     "tags": [
       "9.0 kW",
@@ -11333,7 +15396,7 @@
       "images/1776057861805_3m5l9vcsae1.webp"
     ],
     "categories": [
-      "Stone"
+      "Stones"
     ],
     "tags": [
       "NB",
@@ -11385,7 +15448,7 @@
     "name": "Nordex Mini Ni2",
     "slug": "nordex-mini-ni2",
     "short_description": "The ultra-compact Nordex Mini can be wall-mounted into a straight or corner position. It is available with stainless steel or black metal casing, and compatible with separate Saunova (Ni2, NS) and Innova (NS) controls.",
-    "description": "<table>\n  <thead>\n<tr>\n  <th>Heater Model</th>\n  <th>kW</th>\n  <th>Sauna Room<br>min. (m3) max.</th>\n  <th>Size of Heater (mm)<br>Length Width Height</th>\n  <th>Stones<br>(kg)</th>\n  <th>Control</th>\n  <th colspan=\"3\">Minimum Safety Distances<br>A | B | C</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td>NRM-23Ni2-Z-C</td>\n  <td>2.3</td>\n  <td>1.3 Ã¢â‚¬â€œ 2.5</td>\n  <td>200 x 340 x 500</td>\n  <td>8 Ã¢â‚¬â€œ 11</td>\n  <td>Saunova</td>\n  <td>50</td>\n  <td>30</td>\n  <td>85</td>\n</tr>\n<tr>\n  <td>NRM-30Ni2-Z-C</td>\n  <td>3.0</td>\n  <td>2 Ã¢â‚¬â€œ 4</td>\n  <td>200 x 340 x 500</td>\n  <td>8 Ã¢â‚¬â€œ 11</td>\n  <td>Saunova</td>\n  <td>50</td>\n  <td>30</td>\n  <td>85</td>\n</tr>\n<tr>\n  <td>NRM-36Ni2-Z-C</td>\n  <td>3.6</td>\n  <td>3 Ã¢â‚¬â€œ 6</td>\n  <td>200 x 340 x 500</td>\n  <td>8 Ã¢â‚¬â€œ 11</td>\n  <td>Saunova</td>\n  <td>50</td>\n  <td>30</td>\n  <td>85</td>\n</tr>\n</tbody></table>",
+    "description": "<table>\n  <thead>\n<tr>\n  <th>Heater Model</th>\n  <th>kW</th>\n  <th>Sauna Room<br>min. (m3) max.</th>\n  <th>Size of Heater (mm)<br>Length Width Height</th>\n  <th>Stones<br>(kg)</th>\n  <th>Control</th>\n  <th colspan=\"3\">Minimum Safety Distances<br>A | B | C</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n  <td>NRM-23Ni2-Z-C</td>\n  <td>2.3</td>\n  <td>1.3 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ 2.5</td>\n  <td>200 x 340 x 500</td>\n  <td>8 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ 11</td>\n  <td>Saunova</td>\n  <td>50</td>\n  <td>30</td>\n  <td>85</td>\n</tr>\n<tr>\n  <td>NRM-30Ni2-Z-C</td>\n  <td>3.0</td>\n  <td>2 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ 4</td>\n  <td>200 x 340 x 500</td>\n  <td>8 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ 11</td>\n  <td>Saunova</td>\n  <td>50</td>\n  <td>30</td>\n  <td>85</td>\n</tr>\n<tr>\n  <td>NRM-36Ni2-Z-C</td>\n  <td>3.6</td>\n  <td>3 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ 6</td>\n  <td>200 x 340 x 500</td>\n  <td>8 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ 11</td>\n  <td>Saunova</td>\n  <td>50</td>\n  <td>30</td>\n  <td>85</td>\n</tr>\n</tbody></table>",
     "thumbnail": "images/1776057342866_08tjxdd786m4.webp",
     "images": [
       "images/1776057458429_o1joonfm27.webp"
@@ -11448,7 +15511,7 @@
       "images/1776057071189_6d3tx6rfgo3.webp"
     ],
     "categories": [
-      "Stone"
+      "Stones"
     ],
     "tags": [
       "NS",
@@ -11624,7 +15687,7 @@
       "images/1776056995320_ay1z23sgfk.webp"
     ],
     "categories": [
-      "Stone"
+      "Stones"
     ],
     "tags": [
       "Ni2",
