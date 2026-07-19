@@ -1,0 +1,3116 @@
+{
+  "pails": [
+    {
+      "name": "Kanto",
+      "bestSeller": true,
+      "capacity": "4L",
+      "image": "images/SAWO_sauna_accessories_pails_347.webp",
+      "variants": [
+        {
+          "color": "Hemlock",
+          "code": "347-H",
+          "image": "images/SAWO_sauna_accessories_pails_347-PC.webp"
+        },
+        {
+          "color": "White",
+          "code": "347-WH",
+          "image": "images/SAWO_sauna_accessories_pails_347-WH.webp"
+        },
+        {
+          "color": "Black",
+          "code": "347-BL",
+          "image": "images/SAWO_sauna_accessories_pails_347-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Lovi",
+      "bestSeller": true,
+      "capacity": "4L",
+      "image": "images/SAWO_sauna_accessories_pails_346.webp",
+      "variants": [
+        {
+          "color": "Hemlock",
+          "code": "346-H",
+          "image": "images/SAWO_sauna_accessories_pails_346-PC.webp"
+        },
+        {
+          "color": "White",
+          "code": "346-WH",
+          "image": "images/SAWO_sauna_accessories_pails_346-WH.webp"
+        },
+        {
+          "color": "Black",
+          "code": "346-BL",
+          "image": "images/SAWO_sauna_accessories_pails_346-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Pail 4L",
+      "capacity": "4L",
+      "image": "images/SAWO_sauna_accessories_pails_342.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "342-D",
+          "image": "images/SAWO_sauna_accessories_pails_342-D.webp"
+        },
+        {
+          "color": "Black",
+          "code": "342-BL",
+          "image": "images/SAWO_sauna_accessories_pails_342-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Pail 9L",
+      "capacity": "9L",
+      "image": "images/SAWO_sauna_accessories_pails_300.png",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "300-D",
+          "image": "images/SAWO_sauna_accessories_pails_300-D.png"
+        },
+        {
+          "color": "Black",
+          "code": "300-BL",
+          "image": "images/SAWO_sauna_accessories_pails_300-BL.png"
+        }
+      ]
+    },
+    {
+      "name": "Steamwater Pail 4L",
+      "capacity": "4L",
+      "image": "images/SAWO_sauna_accessories_pails_300-DRF-group.png",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "342-D-DRF",
+          "image": "images/SAWO_sauna_accessories_pails_300-D-DRF.png"
+        },
+        {
+          "color": "Black",
+          "code": "342-BL-DRF",
+          "image": "images/SAWO_sauna_accessories_pails_300-BL-DRF.png"
+        }
+      ]
+    },
+    {
+      "name": "Steamwater Pail 9L",
+      "capacity": "9L",
+      "image": "images/SAWO_sauna_accessories_pails_300-DRF-group.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "300-D-DRF",
+          "image": "images/SAWO_sauna_accessories_pails_300-D-DRF.webp"
+        },
+        {
+          "color": "Black",
+          "code": "300-BL-DRF",
+          "image": "images/SAWO_sauna_accessories_pails_300-BL-DRF.webp"
+        }
+      ]
+    },
+    {
+      "name": "Usva",
+      "capacity": "5L",
+      "image": "images/SAWO_sauna_accessories_pails_374.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "374-MD",
+          "image": "images/374-MD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "374-MA",
+          "image": "images/374-MA.webp"
+        }
+      ]
+    },
+    {
+      "name": "Stainless Steel Pail with Curved Handle",
+      "capacity": "5L",
+      "image": "images/SAWO_sauna_accessories_pails_373.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "373-MD",
+          "image": "images/373-MD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "373-MA",
+          "image": "images/373-MA.webp"
+        }
+      ]
+    },
+    {
+      "name": "Stainless Steel Pail with Wooden Handle",
+      "capacity": "5L",
+      "image": "images/SAWO_sauna_accessories_pails_375.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "375-MD",
+          "image": "images/375-MD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "375-MA",
+          "image": "images/375-MA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "375-MH",
+          "image": "images/375-MPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Pail Rattan with Stainless Steel Insert",
+      "capacity": "5L",
+      "image": "images/SAWO_sauna_accessories_pails_371.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "371-MD",
+          "image": "images/SAWO_sauna_accessories_pails_371-MD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "371-MA",
+          "image": "images/SAWO_sauna_accessories_pails_371-MA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "371-MH",
+          "image": "images/SAWO_sauna_accessories_pails_371-MPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Pail Traditional",
+      "capacity": "9L",
+      "image": "images/SAWO_sauna_accessories_pails_300-T.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "300-TD",
+          "image": "images/SAWO_sauna_accessories_pails_300-TD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "300-TA",
+          "image": "images/SAWO_sauna_accessories_pails_300-TA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "300-TH",
+          "image": "images/SAWO_sauna_accessories_pails_300-TPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Pail Rattan",
+      "capacity": "9L",
+      "image": "images/SAWO_sauna_accessories_pails_300-H.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "300-HD",
+          "image": "images/SAWO_sauna_accessories_pails_300-HD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "300-HA",
+          "image": "images/SAWO_sauna_accessories_pails_300-HA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "300-HH",
+          "image": "images/SAWO_sauna_accessories_pails_300-HPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Pail Classic",
+      "capacity": "4L",
+      "image": "images/SAWO_sauna_accessories_pails_340.webp",
+      "video": "https://www.sawo.com/wp-content/uploads/2025/07/PAIL.mp4",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "340-D",
+          "image": "images/SAWO_sauna_accessories_pails_340-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "340-A",
+          "image": "images/SAWO_sauna_accessories_pails_340-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "340-H",
+          "image": "images/SAWO_sauna_accessories_pails_340-PC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Pail Rattan 4L",
+      "capacity": "4L",
+      "image": "images/SAWO_sauna_accessories_pails_341.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "341-D",
+          "image": "images/SAWO_sauna_accessories_pails_341-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "341-A",
+          "image": "images/SAWO_sauna_accessories_pails_341-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "341-H",
+          "image": "images/SAWO_sauna_accessories_pails_341-PC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Pail 18L",
+      "capacity": "18L",
+      "image": "images/SAWO_sauna_accessories_pails_381.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "381-D",
+          "image": "images/381-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "381-A",
+          "image": "images/381-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "381-H",
+          "image": "images/381-PC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Cover for 381",
+      "use": "Cover for 381 Pail",
+      "image": "images/SAWO_sauna_accessories_pails_381-COV.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "381-D-COV",
+          "image": "images/381-D-COV.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "381-A-COV",
+          "image": "images/381-A-COV.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "381-H-COV",
+          "image": "images/381-P-COV.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Pail 28L",
+      "capacity": "28L",
+      "image": "images/SAWO_sauna_accessories_pails_391.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "391-D",
+          "image": "images/391-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "391-A",
+          "image": "images/391-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "391-H",
+          "image": "images/391-PC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Cover for 391",
+      "use": "Cover for 391 Pail",
+      "image": "images/SAWO_sauna_accessories_pails_391-COV.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "391-D-COV",
+          "image": "images/391-D-COV.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "391-A-COV",
+          "image": "images/391-A-COV.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "391-H-COV",
+          "image": "images/391-P-COV.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Pail 40L",
+      "capacity": "40L",
+      "image": "images/SAWO_sauna_accessories_pails_392.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "392-D",
+          "image": "images/392-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "392-A",
+          "image": "images/392-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "392-H",
+          "image": "images/392-PC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Cover for 392",
+      "use": "Cover for 392 Pail",
+      "image": "images/SAWO_sauna_accessories_pails_392-COV.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "392-D-COV",
+          "image": "images/392-D-COV.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "392-A-COV",
+          "image": "images/392-A-COV.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "392-H-COV",
+          "image": "images/392-P-COV.webp"
+        }
+      ]
+    }
+  ],
+  "ladles": [
+    {
+      "name": "Wooden Ladle Standard 36cm",
+      "size": "360mm",
+      "image": "images/SAWO_sauna_accessories_ladles_430-2000.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "430-D",
+          "image": "images/SAWO_sauna_accessories_ladles_430-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "430-A",
+          "image": "images/SAWO_sauna_accessories_ladles_430-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "430-H",
+          "image": "images/SAWO_sauna_accessories_ladles_430-PC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Ladle Standard 42cm",
+      "size": "420mm",
+      "image": "images/SAWO_sauna_accessories_ladles_Wooden_Ladle_440.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "440-D",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden_Ladle_440-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "440-A",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden_Ladle_440-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "440-H",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden_Ladle_440-PC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Ladle Standard 52cm",
+      "size": "520mm",
+      "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-443.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "443-D",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-443-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "443-A",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-443-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "443-H",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-443-PC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Ladle Standard 68cm",
+      "size": "680mm",
+      "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-444.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "444-D",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-444-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "444-A",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-444-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "444-H",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-444-PC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Ladle Puro 51cm",
+      "bestSeller": true,
+      "size": "510mm",
+      "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-Puro-459.webp",
+      "video": "https://www.sawo.com/wp-content/uploads/2025/08/Black-Laddle_1.mp4",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "459-D",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-Puro-459-D.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "459-H",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-Puro-459-PC.webp"
+        },
+        {
+          "color": "Black",
+          "code": "459-BL",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-Puro-459-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Ladle Puro 67cm",
+      "bestSeller": true,
+      "size": "670mm",
+      "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-Puro-460.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "460-D",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-Puro-460-D.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "460-H",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-Puro-460-B.webp"
+        },
+        {
+          "color": "Black",
+          "code": "460-BL",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-Puro-460-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Ladle Puro 81cm",
+      "size": "810mm",
+      "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-Puro-461.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "461-D",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-Puro-461-D.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "461-H",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-Puro-461-PC.webp"
+        },
+        {
+          "color": "Black",
+          "code": "461-BL",
+          "image": "images/SAWO_sauna_accessories_ladles_Wooden-Ladle-Puro-461-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Kanto Ladle",
+      "size": "520mm",
+      "image": "images/SAWO_sauna_accessories_ladles_Kanto-451.webp",
+      "variants": [
+        {
+          "color": "Hemlock",
+          "code": "451-MH",
+          "image": "images/SAWO_sauna_accessories_ladles_Kanto-451-MPC.webp"
+        },
+        {
+          "color": "White",
+          "code": "451-MWH",
+          "image": "images/SAWO_sauna_accessories_ladles_Kanto-451-WH.webp"
+        },
+        {
+          "color": "Black",
+          "code": "451-MBL",
+          "image": "images/SAWO_sauna_accessories_ladles_Kanto-451-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Ladle",
+      "size": "498mm",
+      "image": "images/SAWO_sauna_accessories_ladles_449.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "449-D",
+          "image": "images/SAWO_sauna_accessories_ladles_449-D.webp"
+        },
+        {
+          "color": "Black",
+          "code": "449-BL",
+          "image": "images/SAWO_sauna_accessories_ladles_449-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Steamshot Ladle",
+      "size": "498mm",
+      "image": "images/SAWO_sauna_accessories_ladles_449-DRF.webp",
+      "video": "https://www.sawo.com/wp-content/uploads/2025/08/DRAGON-PAIL-CEDAR.mp4",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "449-D-DRF",
+          "image": "images/SAWO_sauna_accessories_ladles_449-D-DRF.webp"
+        },
+        {
+          "color": "Black",
+          "code": "449-BL-DRF",
+          "image": "images/SAWO_sauna_accessories_ladles_449-BL-DRF.webp"
+        }
+      ]
+    },
+    {
+      "name": "Stainless Steel Ladle 40cm",
+      "size": "400mm",
+      "image": "images/SAWO_sauna_accessories_ladles_Stainless-steel-441.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "441-MD",
+          "image": "images/SAWO_sauna_accessories_ladles_Stainless-steel-441-MD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "441-MA",
+          "image": "images/SAWO_sauna_accessories_ladles_Stainless-steel-441-MA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "441-MH",
+          "image": "images/SAWO_sauna_accessories_ladles_Stainless-steel-441-MPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Stainless Steel Ladle Siro 46.5cm",
+      "size": "465mm",
+      "image": "images/SAWO_sauna_accessories_ladles_Stainless-Steel-Siro-445.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "445-MD",
+          "image": "images/445-MD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "445-MA",
+          "image": "images/445-MA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "445-MH",
+          "image": "images/445-MP.webp"
+        }
+      ]
+    },
+    {
+      "name": "Stainless Steel Ladle Usva 40cm",
+      "size": "400mm",
+      "image": "images/SAWO_sauna_accessories_ladles_Stainless-steel-442.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "442-MD",
+          "image": "images/442-MD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "442-MA",
+          "image": "images/442-MA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "442-MH",
+          "image": "images/442-MP.webp"
+        }
+      ]
+    },
+    {
+      "name": "Stainless Steel Ladle with Curved Handle",
+      "size": "460mm",
+      "image": "images/SAWO_sauna_accessories_ladles_Stainless-Steel-with-Curve-453.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "453-MD",
+          "image": "images/453-MD-scaled.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "453-MA",
+          "image": "images/453-MA.webp"
+        }
+      ]
+    },
+    {
+      "name": "Stainless Steel Ladle Siro 70.5cm",
+      "size": "705mm",
+      "image": "images/SAWO_sauna_accessories_ladles_Stainless-Steel-Siro-70cm-446.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "446-MD",
+          "image": "images/446-MD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "446-MA",
+          "image": "images/446-MA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "446-MH",
+          "image": "images/446-MP.webp"
+        }
+      ]
+    }
+  ],
+  "pail_shower": [
+    {
+      "name": "Pail Shower",
+      "size": "18L",
+      "image": "images/SAWO_sauna_accessories_pail_shower_new.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "393-D",
+          "image": "images/SAWO_sauna_accessories_pail_shower_cedar.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "393-H",
+          "image": "images/SAWO_sauna_accessories_pail_shower_pinaceae.webp"
+        },
+        {
+          "color": "Black",
+          "code": "393-BL",
+          "image": "images/SAWO_sauna_accessories_pail_shower_black.webp"
+        }
+      ]
+    }
+  ],
+  "thermometers_and_combined_meters": [
+    {
+      "name": "Loisto Square Thermometer",
+      "size": "110 x 85mm",
+      "image": "images/108-TD.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "108-TD",
+          "image": "images/108-TD.webp"
+        }
+      ]
+    },
+    {
+      "name": "Loisto Rounded Thermometer",
+      "size": "110 x 85mm",
+      "image": "images/109-TD.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "109-TD",
+          "image": "images/109-TD.webp"
+        }
+      ]
+    },
+    {
+      "name": "Kanto Thermometer",
+      "size": "125 x 125mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_104.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "104-TD",
+          "image": "images/SAWO_sauna_accessories_thermometers_104-TD.webp"
+        },
+        {
+          "color": "White",
+          "code": "104-TWH",
+          "image": "images/SAWO_sauna_accessories_thermometers_104-TWH.webp"
+        },
+        {
+          "color": "Black",
+          "code": "104-TBL",
+          "image": "images/SAWO_sauna_accessories_thermometers_104-TBL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Black Metal Thermometer",
+      "size": "110 x 110mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_295-TMBL.webp",
+      "variants": [
+        {
+          "color": "Black Metal",
+          "code": "295-TMBL",
+          "image": "images/SAWO_sauna_accessories_thermometers_295-TMBL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Black Metal Thermo-Hygrometer",
+      "size": "220 x 110mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_295-THMBL.webp",
+      "variants": [
+        {
+          "color": "Black Metal",
+          "code": "295-THMBL",
+          "image": "images/SAWO_sauna_accessories_thermometers_295-THMBL.webp"
+        }
+      ]
+    },
+    {
+      "name": "2 Accent Stone Thermometer",
+      "size": "125 x 160mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_280.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "280-TRD",
+          "image": "images/SAWO_sauna_accessories_thermometers_280-TRD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "280-TRA",
+          "image": "images/SAWO_sauna_accessories_thermometers_280-TRA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "280-TRH",
+          "image": "images/SAWO_sauna_accessories_thermometers_280-TR1PC.webp"
+        }
+      ]
+    },
+    {
+      "name": "1 Accent Stone Thermometer",
+      "size": "125 x 160mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_280-1.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "280-TR1D",
+          "image": "images/SAWO_sauna_accessories_thermometers_280-TR1D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "280-TR1A",
+          "image": "images/SAWO_sauna_accessories_thermometers_280-TR1A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "280-TR1H",
+          "image": "images/SAWO_sauna_accessories_thermometers_280-TR1PC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Cut Corner Square Thermometer",
+      "size": "140 x 140mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_220.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "220-TD",
+          "image": "images/SAWO_sauna_accessories_thermometers_220-TD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "220-TA",
+          "image": "images/SAWO_sauna_accessories_thermometers_220-TA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "220-TH",
+          "image": "images/SAWO_sauna_accessories_thermometers_220-TPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Square Thermometer",
+      "size": "140 x 140mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_223.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "223-TD",
+          "image": "images/SAWO_sauna_accessories_thermometers_223-TD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "223-TA",
+          "image": "images/SAWO_sauna_accessories_thermometers_223-TA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "223-TH",
+          "image": "images/SAWO_sauna_accessories_thermometers_223-TPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Octagon Thermometer",
+      "size": "165 x 180mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_240.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "240-TD",
+          "image": "images/SAWO_sauna_accessories_thermometers_240-TD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "240-TA",
+          "image": "images/SAWO_sauna_accessories_thermometers_240-TA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "240-TH",
+          "image": "images/SAWO_sauna_accessories_thermometers_240-TPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Water Drop Thermometer",
+      "size": "150 x 180mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_250.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "250-TD",
+          "image": "images/SAWO_sauna_accessories_thermometers_250-TD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "250-TA",
+          "image": "images/SAWO_sauna_accessories_thermometers_250-TA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "250-TH",
+          "image": "images/SAWO_sauna_accessories_thermometers_250-TPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "2 Accent Stone Thermo-Hygrometer",
+      "size": "160 x 185mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_281.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "281-THRD",
+          "image": "images/SAWO_sauna_accessories_thermometers_281-THRD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "281-THRA",
+          "image": "images/SAWO_sauna_accessories_thermometers_281-THRA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "281-THRH",
+          "image": "images/SAWO_sauna_accessories_thermometers_281-THRPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "1 Accent Stone Thermo-Hygrometer",
+      "size": "160 x 185mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_281-1.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "THR1D",
+          "image": "images/SAWO_sauna_accessories_thermometers_281-TH1RD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "THR1A",
+          "image": "images/SAWO_sauna_accessories_thermometers_281-TH1RA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "THR1H",
+          "image": "images/SAWO_sauna_accessories_thermometers_281-TH1RPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "2 Accent Stone Rectangle Thermo-Hygrometer",
+      "size": "255 x 155mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_282-compiled.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "282-THRD",
+          "image": "images/SAWO_sauna_accessories_thermometers_282-THRD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "282-THRA",
+          "image": "images/SAWO_sauna_accessories_thermometers_282-THRA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "282-THRH",
+          "image": "images/SAWO_sauna_accessories_thermometers_282-THRPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "1 Accent Stone Rectangle Thermo-Hygrometer",
+      "size": "255 x 155mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_282-1.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "282-THR1RD",
+          "image": "images/SAWO_sauna_accessories_thermometers_282-TH1RD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "282-THR1A",
+          "image": "images/SAWO_sauna_accessories_thermometers_282-TH1RA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "282-THR1H",
+          "image": "images/SAWO_sauna_accessories_thermometers_282-TH1RPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Accent Stone Vertical Thermo-Hygrometer",
+      "size": "155 x 255mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_283.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "283-THVRD",
+          "image": "images/SAWO_sauna_accessories_thermometers_283-THVRD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "283-THVRA",
+          "image": "images/SAWO_sauna_accessories_thermometers_283-THVRA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "283-THVRH",
+          "image": "images/SAWO_sauna_accessories_thermometers_283-THVRPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Water Drop Thermo-Hygrometer",
+      "size": "185 x 225mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_251.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "251-THD",
+          "image": "images/SAWO_sauna_accessories_thermometers_251-THD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "251-THA",
+          "image": "images/SAWO_sauna_accessories_thermometers_251-THA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "251-THH",
+          "image": "images/SAWO_sauna_accessories_thermometers_251-THPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Octagon Thermo-Hygrometer",
+      "size": "175 x 225mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_241.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "241-THD",
+          "image": "images/SAWO_sauna_accessories_thermometers_241-THD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "241-THA",
+          "image": "images/SAWO_sauna_accessories_thermometers_241-THA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "241-THH",
+          "image": "images/SAWO_sauna_accessories_thermometers_241-THPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Square Thermo-Hygrometer",
+      "size": "180 x 180mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_225.webp",
+      "video": "https://www.sawo.com/wp-content/uploads/2025/08/Thermo-Hygrometer.mp4",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "225-THD",
+          "image": "images/SAWO_sauna_accessories_thermometers_225-THD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "225-THA",
+          "image": "images/SAWO_sauna_accessories_thermometers_225-THA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "225-THH",
+          "image": "images/SAWO_sauna_accessories_thermometers_225-THPC.webp"
+        },
+        {
+          "color": "Black Metal",
+          "code": "225-BL",
+          "image": "images/SAWO_sauna_accessories_thermometers_225-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Curved Square Thermo-Hygrometer",
+      "size": "170 x 175mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_285.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "285-THD",
+          "image": "images/SAWO_sauna_accessories_thermometers_285-THD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "285-THA",
+          "image": "images/SAWO_sauna_accessories_thermometers_285-THA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "285-THH",
+          "image": "images/SAWO_sauna_accessories_thermometers_285-THPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Basic Curved Rectangle Thermo-Hygrometer",
+      "size": "225 x 140mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_271.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "271-THBD",
+          "image": "images/SAWO_sauna_accessories_thermometers_271-THBD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "271-THBA",
+          "image": "images/SAWO_sauna_accessories_thermometers_271-THBA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "271-THBH",
+          "image": "images/SAWO_sauna_accessories_thermometers_271-THBPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Rectangle Thermo-Hygrometer",
+      "size": "255 x 140mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_224.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "224-THD",
+          "image": "images/SAWO_sauna_accessories_thermometers_224-THD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "224-THA",
+          "image": "images/SAWO_sauna_accessories_thermometers_224-THA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "224-THH",
+          "image": "images/SAWO_sauna_accessories_thermometers_224-THPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Curved Rectangle Thermo-Hygrometer",
+      "size": "225 x 140mm",
+      "image": "images/2026-04-SAWO_sauna_accessories_thermometers_271.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "271-THPD",
+          "image": "images/SAWO_sauna_accessories_thermometers_271-THD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "271-THPA",
+          "image": "images/SAWO_sauna_accessories_thermometers_271-THA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "271-THH",
+          "image": "images/SAWO_sauna_accessories_thermometers_271-THPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Cut Corner Rectangle Thermo-Hygrometer",
+      "size": "225 x 140mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_221.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "221-THD",
+          "image": "images/SAWO_sauna_accessories_thermometers_221-THD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "221-THA",
+          "image": "images/SAWO_sauna_accessories_thermometers_221-THA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "221-THH",
+          "image": "images/SAWO_sauna_accessories_thermometers_221-THPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Cut Corner Vertical Rectangle Thermo-Hygrometer",
+      "size": "136 x 251mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_221THV.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "221-THVD",
+          "image": "images/SAWO_sauna_accessories_thermometers_221-THVD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "221-THVA",
+          "image": "images/SAWO_sauna_accessories_thermometers_221-THVA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "221-THVH",
+          "image": "images/SAWO_sauna_accessories_thermometers_221-THVPC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Rounded Rectangle Thermo-Hygrometer",
+      "size": "225 x 140mm",
+      "image": "images/SAWO_sauna_accessories_thermometers_222-TH.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "222-THD",
+          "image": "images/222-THD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "222-THA",
+          "image": "images/222-THA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "222-THH",
+          "image": "images/222-THPC.webp"
+        }
+      ]
+    }
+  ],
+  "clocks_and_timers": [
+    {
+      "name": "Loisto Clock Square",
+      "size": "180 x 180mm",
+      "image": "images/SAWO_sauna_accessories_clocks_534-D.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "534-D",
+          "image": "images/SAWO_sauna_accessories_clocks_534-D.webp"
+        }
+      ]
+    },
+    {
+      "name": "Loisto Wooden Clock Round",
+      "size": "Ø180mm",
+      "image": "images/SAWO_sauna_accessories_clocks_535-D.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "535-D",
+          "image": "images/SAWO_sauna_accessories_clocks_535-D.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Pail Clock",
+      "size": "Ø260 x 90mm",
+      "image": "images/SAWO_sauna_accessories_clocks_530.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "530-D",
+          "image": "images/SAWO_sauna_accessories_clocks_530-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "530-A",
+          "image": "images/SAWO_sauna_accessories_clocks_530-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "530-H",
+          "image": "images/SAWO_sauna_accessories_clocks_530-P.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Pail Clock Small",
+      "size": "Ø230 x H40mm",
+      "image": "images/SAWO_sauna_accessories_clocks_531.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "531-D",
+          "image": "images/SAWO_sauna_accessories_clocks_531-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "531-A",
+          "image": "images/SAWO_sauna_accessories_clocks_531-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "531-H",
+          "image": "images/SAWO_sauna_accessories_clocks_531-P.webp"
+        }
+      ]
+    },
+    {
+      "name": "Sand Timer 15min",
+      "size": "65 x 340mm",
+      "image": "images/SAWO_sauna_accessories_timers_553.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "553-D",
+          "image": "images/SAWO_sauna_accessories_timers_553-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "553-A",
+          "image": "images/SAWO_sauna_accessories_timers_553-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "553-H",
+          "image": "images/SAWO_sauna_accessories_timers_553-P.webp"
+        },
+        {
+          "color": "Black",
+          "code": "553-BL",
+          "image": "images/SAWO_sauna_accessories_timers_553-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Sand Timer Kanto 15min",
+      "size": "65 x 340mm",
+      "image": "images/SAWO_sauna_accessories_timers_554.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "554-D",
+          "image": "images/SAWO_sauna_accessories_timers_554-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "554-A",
+          "image": "images/SAWO_sauna_accessories_timers_554-A.webp"
+        },
+        {
+          "color": "Black",
+          "code": "554-BL",
+          "image": "images/SAWO_sauna_accessories_timers_554-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Sand Timer Tag 15min",
+      "size": "65 x 340mm",
+      "image": "images/SAWO_sauna_accessories_timers_550.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "550-D",
+          "image": "images/SAWO_sauna_accessories_timers_550-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "550-A",
+          "image": "images/SAWO_sauna_accessories_timers_550-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "550-H",
+          "image": "images/SAWO_sauna_accessories_timers_550-P.webp"
+        }
+      ]
+    }
+  ],
+  "sauna_lights": [
+    {
+      "name": "Wooden Curve Light 240",
+      "size": "240 x 85 x 60mm",
+      "size_display": "60mm (3.4\") x 240mm (9.3\") x 85mm (2.4\")",
+      "code_display": "923-D / 923-D-SET |<br>923-H / 923-H-SET |<br>923-BL / 923-BL-SET",
+      "image": "images/923-group2.png",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "923-D",
+          "image": "images/923-D_2.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "923-H",
+          "image": "images/923-H-2.png"
+        },
+        {
+          "color": "Black",
+          "code": "923-BL",
+          "image": "images/923-BL_2.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Curve Light 364",
+      "size": "365 x 85 x 60mm",
+      "size_display": "60mm (3.4\") x 364mm (14.4\") x 85mm (2.4\")",
+      "code_display": "924-D / 924-D-SET |<br>924-H / 924-H-SET |<br>924-BL / 924-BL-SET",
+      "image": "images/924-group-2.png",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "924-D",
+          "image": "images/924-D_2.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "924-H",
+          "image": "images/924-H_2.png"
+        },
+        {
+          "color": "Black",
+          "code": "924-BL",
+          "image": "images/924-BL_2.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Curve Light 614",
+      "size": "614 x 85 x 60mm",
+      "size_display": "60mm (3.4\") x 614mm (24\") x 85mm (2.4\")",
+      "code_display": "925-D / 925-D-SET |<br>925-H / 925-H-SET |<br>925-BL / 925-BL-SET",
+      "image": "images/925-group-2.png",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "925-D",
+          "image": "images/925-D_2.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "925-H",
+          "image": "images/925-H_2.png"
+        },
+        {
+          "color": "Black",
+          "code": "925-BL",
+          "image": "images/925-BL_2.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Light Cover Square",
+      "size": "250 x 75mm",
+      "image": "images/SAWO_sauna_accessories_light_covers_910.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "910-SD",
+          "image": "images/SAWO_sauna_accessories_light_covers_910-SD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "910-SA",
+          "image": "images/SAWO_sauna_accessories_light_covers_910-SA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "910-SH",
+          "image": "images/SAWO_sauna_accessories_light_covers_910-SP.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Light Cover Square Large",
+      "name_display": "Wooden Light Cover Square",
+      "size": "250 x 135mm",
+      "image": "images/SAWO_sauna_accessories_light_covers_911.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "911-LD",
+          "image": "images/SAWO_sauna_accessories_light_covers_911-LD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "911-LA",
+          "image": "images/SAWO_sauna_accessories_light_covers_911-LA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "911-LH",
+          "image": "images/SAWO_sauna_accessories_light_covers_911-LP.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Light Cover Square Small",
+      "name_display": "Wooden Light Cover Corner/Wall",
+      "size": "150 x 110mm",
+      "image": "images/SAWO_sauna_accessories_light_covers_914.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "914-VD",
+          "image": "images/SAWO_sauna_accessories_light_covers_914-VD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "914-VA",
+          "image": "images/SAWO_sauna_accessories_light_covers_914-VA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "914-VH",
+          "image": "images/SAWO_sauna_accessories_light_covers_914-VP.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Light Cover Wave",
+      "size": "207 x 280mm",
+      "image": "images/SAWO_sauna_accessories_light_covers_917.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "917-D",
+          "image": "images/SAWO_sauna_accessories_light_covers_917-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "917-A",
+          "image": "images/SAWO_sauna_accessories_light_covers_917-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "917-H",
+          "image": "images/SAWO_sauna_accessories_light_covers_917-P.webp"
+        }
+      ]
+    },
+    {
+      "name": "Himalayan Salt Wall<br>Vertical Tiles",
+      "size": "675mm (L) x 275mm (W) x 60mm (D)",
+      "image": "images/HIM-SWL-275-1-V-G.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "HIM-SWL-275-1-V",
+          "image": "images/HIM-SWL-275-1-V.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "HIM-SWL-275-1-V-H",
+          "image": "images/SALT-WALL-T50-x-275mm-x-650mm_H.webp"
+        },
+        {
+          "color": "Black",
+          "code": "HIM-SWL-275-1-V-BL",
+          "image": "images/SALT-WALL-T50-x-275mm-x-650mm_BLACK-3.webp"
+        }
+      ]
+    },
+    {
+      "name": "Himalayan Salt Wall<br>Vertical Tiles Large",
+      "size": "1075mm (L) x 275mm (W) x 60mm (D)",
+      "image": "images/HIM-SWL-275-2-V-G.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "HIM-SWL-275-2-V",
+          "image": "images/HIM-SWL-275-2-V.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "HIM-SWL-275-2-V-H",
+          "image": "images/SALT-WALL-T50-x-275mm-x-1030mm_H.webp"
+        },
+        {
+          "color": "Black",
+          "code": "HIM-SWL-275-2-V-BL",
+          "image": "images/SALT-WALL-T50-x-275mm-x-1030mm_BLACK.webp"
+        }
+      ]
+    },
+    {
+      "name": "Himalayan Salt Wall<br>Horizontal Tiles",
+      "size": "675mm (L) x 375mm (W) x 60mm (D)",
+      "image": "images/HIM-SWL-375-1-G.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "HIM-SWL-375-1",
+          "image": "images/HIM-SWL-375-1.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "HIM-SWL-375-1-H",
+          "image": "images/SALT-WALL-T50mm-x-365mm-x-665mm_H.webp"
+        },
+        {
+          "color": "Black",
+          "code": "HIM-SWL-375-1-BL",
+          "image": "images/SALT-WALL-T50mm-x-365mm-x-665mm_BLACK.webp"
+        }
+      ]
+    },
+    {
+      "name": "Himalayan Salt Wall<br>Horizontal Tiles Large",
+      "size": "1075mm (L) x 375mm (W) x 60mm (D)",
+      "image": "images/HIM-SWL-375-2-G.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "HIM-SWL-375-2",
+          "image": "images/HIM-SWL-375-2.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "HIM-SWL-375-2-H",
+          "image": "images/SALT-WALL-T50mm-x-365mm-x-1055mm_H.webp"
+        },
+        {
+          "color": "Black",
+          "code": "HIM-SWL-375-2-BL",
+          "image": "images/SALT-WALL-T50mm-x-365mm-x-1055mm_BLACK.webp"
+        }
+      ]
+    }
+  ],
+  "headrest_and_backrests": [
+    {
+      "name": "Wave Wooden Backrest",
+      "size": "390 x 845mm",
+      "image": "images/SAWO_sauna_accessories_backrests_506-2.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "506-2-D",
+          "image": "images/SAWO_sauna_accessories_backrests_506-2-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "506-2-A",
+          "image": "images/SAWO_sauna_accessories_backrests_506-2-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "506-2-H",
+          "image": "images/SAWO_sauna_accessories_backrests_506-2-H.png"
+        },
+        {
+          "color": "Black",
+          "code": "506-2-BL",
+          "image": "images/SAWO_sauna_accessories_backrests_506-2-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wave Wooden Headrest",
+      "size": "190 x 480mm",
+      "image": "images/515_Group-RV1.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "515-D",
+          "image": "images/SAWO_sauna_accessories_headrest_515-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "515-A",
+          "image": "images/SAWO_sauna_accessories_headrest_515-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "515-H",
+          "image": "images/SAWO_sauna_accessories_headrest_515-H.png"
+        },
+        {
+          "color": "Black",
+          "code": "515-BL",
+          "image": "images/SAWO_sauna_accessories_headrest_515-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Halu Wooden Headrest",
+      "size": "180 x 230mm",
+      "image": "images/512_Group-RV1.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "512-D",
+          "image": "images/SAWO_sauna_accessories_headrests_512-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "512-A",
+          "image": "images/SAWO_sauna_accessories_headrests_512-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "512-H",
+          "image": "images/SAWO_sauna_accessories_headrests_512-H.png"
+        },
+        {
+          "color": "Black",
+          "code": "512-BL",
+          "image": "images/SAWO_sauna_accessories_headrests_512-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Halu Anti-theft Headrest",
+      "size": "190 x 480mm",
+      "image": "images/SAWO_sauna_accessories_headrests_513.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "513-D",
+          "image": "images/SAWO_sauna_accessories_headrests_513-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "513-A",
+          "image": "images/SAWO_sauna_accessories_headrests_513-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "513-H",
+          "image": "images/SAWO_sauna_accessories_headrests_513-H.png"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Backrest",
+      "size": "396 x 515mm",
+      "image": "images/SAWO_sauna_accessories_backrests_516.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "516-D",
+          "image": "images/SAWO_sauna_accessories_backrests_516-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "516-A",
+          "image": "images/SAWO_sauna_accessories_backrests_516-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "516-H",
+          "image": "images/SAWO_sauna_accessories_backrests_516-PC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Backrest Slim",
+      "size": "190 x 480mm",
+      "image": "images/514_Group-RV1.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "514-D",
+          "image": "images/SAWO_sauna_accessories_backrests_514-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "514-A",
+          "image": "images/SAWO_sauna_accessories_backrests_514-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "514-H",
+          "image": "images/SAWO_sauna_accessories_backrests_514-H.png"
+        }
+      ]
+    }
+  ],
+  "doors_and_handles": [
+    {
+      "name": "Wooden Stripe Sauna Door",
+      "opening_size": "610 x 1955mm",
+      "frame_size": "700 x 2040mm",
+      "image": "images/Edited-SAWO_sauna_accessories_doors_770-4SD.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "770-4SD-R",
+          "image": "images/Edited-SAWO_sauna_accessories_doors_770-4SD-R.webp"
+        },
+        {
+          "color": "Cedar",
+          "code": "770-4SD-L",
+          "image": "images/Edited-SAWO_sauna_accessories_doors_770-4SD-L.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Stripe Sauna Door Wide",
+      "opening_size": "915 x 2030mm",
+      "frame_size": "1005 x 2120mm",
+      "image": "images/SAWO_sauna_accessories_doors_771-4SD.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "771-4SD-R",
+          "image": "images/SAWO_sauna_accessories_doors_771-4SD-R.webp"
+        },
+        {
+          "color": "Cedar",
+          "code": "771-4SD-L",
+          "image": "images/SAWO_sauna_accessories_doors_771-4SD-L.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Reversible Sauna Door",
+      "opening_size": "915 x 1990mm",
+      "frame_size": "1005 x 2075mm",
+      "image": "images/SAWO_sauna_accessories_doors_773_4S.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "773-4SD",
+          "image": "images/SAWO_sauna_accessories_doors_773_4SD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "773-4SA",
+          "image": "images/SAWO_sauna_accessories_doors_773_4SA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "773-4SH",
+          "image": "images/SAWO_sauna_accessories_doors_773_4SP.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Reversible Sauna Door",
+      "opening_size": "610 x 1935mm",
+      "frame_size": "700 x 2040mm",
+      "image": "images/SAWO_sauna_accessories_doors_734-4S.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "734-4SD",
+          "image": "images/SAWO_sauna_accessories_doors_734-4SD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "734-4SA",
+          "image": "images/SAWO_sauna_accessories_doors_734-4SA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "734-4SH",
+          "image": "images/SAWO_sauna_accessories_doors_734-4SP.webp"
+        }
+      ]
+    },
+    {
+      "name": "Clear Glass Reversible Sauna Door",
+      "opening_size": "600 x 1800mm",
+      "frame_size": "690 x 1890mm",
+      "image": "images/SAWO_sauna_accessories_doors_730-4SC.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "730-4SCD",
+          "image": "images/SAWO_sauna_accessories_doors_730-4SCD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "730-4SCA",
+          "image": "images/SAWO_sauna_accessories_doors_730-4SCA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "730-4SCH",
+          "image": "images/SAWO_sauna_accessories_doors_730-4SCP.webp"
+        }
+      ]
+    },
+    {
+      "name": "Clear Glass Reversible Sauna Door Wide",
+      "opening_size": "700 x 1800mm",
+      "frame_size": "790 x 1890mm",
+      "image": "images/SAWO_sauna_accessories_doors_731-4SC.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "731-4SCD",
+          "image": "images/SAWO_sauna_accessories_doors_731-4SCD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "731-4SCA",
+          "image": "images/SAWO_sauna_accessories_doors_731-4SCA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "731-4SCH",
+          "image": "images/SAWO_sauna_accessories_doors_731-4SCP.webp"
+        }
+      ]
+    },
+    {
+      "name": "Clear Glass Reversible Sauna Door with Vertical Wooden Handle Arc",
+      "opening_size": "600 x 1800mm",
+      "frame_size": "690 x 1890mm",
+      "image": "images/SAWO_sauna_accessories_doors_741-4SC-1.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "741-4SCD-1",
+          "image": "images/SAWO_sauna_accessories_doors_741-4SCD-1.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "741-4SCA-1",
+          "image": "images/SAWO_sauna_accessories_doors_741-4SCA-1.webp"
+        }
+      ]
+    },
+    {
+      "name": "Clear Glass Reversible Sauna Door with Vertical Wooden Handle Metal",
+      "opening_size": "600 x 1800mm",
+      "frame_size": "690 x 1890mm",
+      "image": "images/SAWO_sauna_accessories_doors_741-4SC-3.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "741-4SCD-3",
+          "image": "images/SAWO_sauna_accessories_doors_741-4SCD-3.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "741-4SCA-3",
+          "image": "images/SAWO_sauna_accessories_doors_741-4SCA-3.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Door with Clear Glass Window",
+      "opening_size": "600 x 1800mm",
+      "frame_size": "690 x 1890mm",
+      "image": "images/SAWO_sauna_accessories_doors_743-4SC.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "743-4SCD-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_743-4SCD-R-L.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "743-4SCA-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_743-4SCA-R-L.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "743-4SCH-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_743-4SCH-R-L.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Wide Clear Window Sauna Door",
+      "opening_size": "915 x 2035mm",
+      "frame_size": "1005 x 2075mm",
+      "image": "images/SAWO_sauna_accessories_doors_739-3SC.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "739-3SCD-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_739-3SCD-R.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "739-3SCA-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_739-3SCA-R.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "739-3SCH-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_739-3SCP-R.webp"
+        }
+      ]
+    },
+    {
+      "name": "Bronze Glass Reversible Sauna Door with Arc Handle",
+      "opening_size": "600 x 1800mm",
+      "frame_size": "690 x 1890mm",
+      "image": "images/SAWO_sauna_accessories_doors_741-4SG-1.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "741-4SGD-1",
+          "image": "images/SAWO_sauna_accessories_doors_741-4SGD-1.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "741-4SGA-1",
+          "image": "images/SAWO_sauna_accessories_doors_741-4SGA-1.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "741-4SGH-1",
+          "image": "images/SAWO_sauna_accessories_doors_741-4SGP-1.webp"
+        }
+      ]
+    },
+    {
+      "name": "Bronze Glass Reversible Sauna Door with Metallic Handle",
+      "opening_size": "600 x 1800mm",
+      "frame_size": "690 x 1890mm",
+      "image": "images/SAWO_sauna_accessories_doors_741-4SG-3.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "741-4SGD-3",
+          "image": "images/SAWO_sauna_accessories_doors_741-4SGD-3.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "741-4SGA-3",
+          "image": "images/SAWO_sauna_accessories_doors_741-4SGA-3.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "741-4SGH-3",
+          "image": "images/SAWO_sauna_accessories_doors_741-4SGP-3.webp"
+        }
+      ]
+    },
+    {
+      "name": "Bronze Glass Reversible Sauna Door Standard",
+      "opening_size": "600 x 1800mm",
+      "frame_size": "690 x 1890mm",
+      "image": "images/SAWO_sauna_accessories_doors_730-4SG.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "730-4SGD",
+          "image": "images/SAWO_sauna_accessories_doors_730-4SGD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "730-4SGA",
+          "image": "images/SAWO_sauna_accessories_doors_730-4SGA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "730-4SGH",
+          "image": "images/SAWO_sauna_accessories_doors_730-4SGP.webp"
+        }
+      ]
+    },
+    {
+      "name": "Bronze Glass Reversible Sauna Door Standard",
+      "opening_size": "700 x 1800mm",
+      "frame_size": "790 x 1890mm",
+      "image": "images/SAWO_sauna_accessories_doors_731-4SG.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "731-4SGD",
+          "image": "images/SAWO_sauna_accessories_doors_731-4SGD.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "731-4SGA",
+          "image": "images/SAWO_sauna_accessories_doors_731-4SGA.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "731-4SGH",
+          "image": "images/SAWO_sauna_accessories_doors_731-4SGP.webp"
+        }
+      ]
+    },
+    {
+      "name": "Bronze Glass Sauna Door Finland",
+      "opening_size": "700 x 1800mm",
+      "frame_size": "790 x 1890mm",
+      "image": "images/SAWO_sauna_accessories_doors_731-3SG.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "731-3SGD",
+          "image": "images/SAWO_sauna_accessories_doors_731-3SGD-R.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "731-3SGA",
+          "image": "images/SAWO_sauna_accessories_doors_731-3SGA-R.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "731-3SGH",
+          "image": "images/SAWO_sauna_accessories_doors_731-3SGP-R.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Door with Bronze Glass Window",
+      "opening_size": "600 x 1800mm",
+      "frame_size": "690 x 1890mm",
+      "image": "images/SAWO_sauna_accessories_doors_743-4SG-1.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "743-4SGD-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_743-4SGD-R-L-1.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "743-4SGA-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_743-4SGA-R-L-1.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "743-4SGH-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_743-4SGU-R-L-1.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Sauna Door with Window",
+      "opening_size": "915 x 2015mm",
+      "frame_size": "1005 x 2120mm",
+      "image": "images/SAWO_sauna_accessories_doors_736-4SG.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "736-4SGD-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_736-4SGD-R-L.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "736-4SGA-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_736-4SGA-R-L.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "736-4SGH-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_736-4SGU-R-L.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Wide Bronze Window Sauna Door",
+      "opening_size": "915 x 2035mm",
+      "frame_size": "1005 x 2075mm",
+      "image": "images/SAWO_sauna_accessories_doors_739-3Sg.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "739-3SGD-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_739-3SGD-R-L.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "739-3SGA-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_739-3SGA-R-L.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "739-3SGH-R/L",
+          "image": "images/SAWO_sauna_accessories_doors_739-3SGP-R-L.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Arc Door Handle",
+      "size": "40 x 900mm",
+      "image": "images/SAWO_sauna_accessories_door_handles_558.png",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "558-D",
+          "image": "images/SAWO_sauna_accessories_door_handles_558-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "558-A",
+          "image": "images/SAWO_sauna_accessories_door_handles_558-A.webp"
+        },
+        {
+          "color": "Black",
+          "code": "558-BL",
+          "image": "images/SAWO_sauna_accessories_door_handles_558-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Door Handle",
+      "size": "40 x 900mm",
+      "image": "images/SAWO_sauna_accessories_door_handles_559.png",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "559-D",
+          "image": "images/SAWO_sauna_accessories_door_handles_559-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "559-A",
+          "image": "images/SAWO_sauna_accessories_door_handles_559-A.webp"
+        },
+        {
+          "color": "Black",
+          "code": "559-BL",
+          "image": "images/SAWO_sauna_accessories_door_handles_559-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Straight Door Handle with Metal Accent",
+      "size": "155 x 900mm",
+      "image": "images/SAWO_sauna_accessories_door_handles_560.png",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "560-D",
+          "image": "images/SAWO_sauna_accessories_door_handles_560-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "560-A",
+          "image": "images/SAWO_sauna_accessories_door_handles_560-A.webp"
+        },
+        {
+          "color": "Black",
+          "code": "560-BL",
+          "image": "images/SAWO_sauna_accessories_door_handles_560-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Door Handle Small Round",
+      "size": "Ø65 x W70mm",
+      "image": "images/1-SAWO_sauna_accessories_door_handles_565.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "565-D",
+          "image": "images/SAWO_sauna_accessories_door_handles_565-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "565-A",
+          "image": "images/SAWO_sauna_accessories_door_handles_565-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "565-H",
+          "image": "images/SAWO_sauna_accessories_door_handles_565-P.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Door Handle Big Round",
+      "size": "Ø90 x W50mm",
+      "image": "images/SAWO_sauna_accessories_door_handles_566.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "566-D",
+          "image": "images/SAWO_sauna_accessories_door_handles_566-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "566-A",
+          "image": "images/SAWO_sauna_accessories_door_handles_566-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "566-H",
+          "image": "images/SAWO_sauna_accessories_door_handles_566-P.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Door Handle with Magnetic Lock",
+      "size": "260 x 45mm",
+      "image": "images/SAWO_sauna_accessories_door_handles_568.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "568-D",
+          "image": "images/SAWO_sauna_accessories_door_handles_568-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "568-A",
+          "image": "images/SAWO_sauna_accessories_door_handles_568-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "568-H",
+          "image": "images/SAWO_sauna_accessories_door_handles_568-P.webp"
+        }
+      ]
+    },
+    {
+      "name": "Door Lock Magnet Round, Heavy-Duty",
+      "size": "17 x 28.5mm",
+      "image": "images/SAWO_sauna_accessories_door_handle_574.webp",
+      "variants": [
+        {
+          "color": "Aluminum",
+          "code": "574",
+          "image": "images/SAWO_sauna_accessories_door_handle_574.webp"
+        }
+      ]
+    }
+  ],
+  "benches": [
+    {
+      "name": "Siro Sauna Bench",
+      "code": "528-D",
+      "size": "280 x 420 x 420mm",
+      "option": "Cedar",
+      "image": "images/Siro-Sauna-Bench-528.png",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "528-D",
+          "image": "images/Siro-Sauna-Bench-528.png"
+        }
+      ]
+    },
+    {
+      "name": "Siro Sauna Bench",
+      "code": "529-D",
+      "size": "280 x 850 x 420mm",
+      "option": "Cedar",
+      "image": "images/Siro-Sauna-Bench-750x290x400mm.png",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "529-D",
+          "image": "images/Siro-Sauna-Bench-750x290x400mm.png"
+        }
+      ]
+    },
+    {
+      "name": "Siro Sauna Bench",
+      "code": "529-L-D",
+      "size": "280 x 1200 x 420mm",
+      "option": "Cedar",
+      "image": "images/120-x-29-x-42cm-Siro-bench-scaled.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "529-L-D",
+          "image": "images/120-x-29-x-42cm-Siro-bench-scaled.webp"
+        }
+      ]
+    },
+    {
+      "name": "Siro Wide Sauna Bench 42cm",
+      "code": "628-D",
+      "size": "425 x 420 x 420mm",
+      "option": "Cedar",
+      "image": "images/SAWO_sauna_accessories_benches_628-D.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "628-D",
+          "image": "images/SAWO_sauna_accessories_benches_628-D.webp"
+        }
+      ]
+    },
+    {
+      "name": "Siro Wide Sauna Bench",
+      "code": "629-D",
+      "size": "425 x 850 x 420mm",
+      "option": "Cedar",
+      "image": "images/SAWO_sauna_accessories_benches_629-D.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "629-D",
+          "image": "images/SAWO_sauna_accessories_benches_629-D.webp"
+        }
+      ]
+    },
+    {
+      "name": "Siro Wide Sauna Bench",
+      "code": "629-L-D",
+      "size": "425 x 1200 x 420mm",
+      "option": "Cedar",
+      "image": "images/SAWO_sauna_accessories_benches_629-L-D.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "629-L-D",
+          "image": "images/SAWO_sauna_accessories_benches_629-L-D.webp"
+        }
+      ]
+    },
+    {
+      "name": "Sauna Bench",
+      "code": "520-D",
+      "size": "430 x 534 x 412mm",
+      "option": "Cedar",
+      "image": "images/520-D.jpg",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "520-D",
+          "image": "images/520-D.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sauna Bench",
+      "code": "521-D",
+      "size": "430 x 870 x 412mm",
+      "option": "Cedar",
+      "image": "images/521-D.jpg",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "521-D",
+          "image": "images/521-D.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sauna Bench",
+      "code": "522-D",
+      "size": "500 x 870 x 510mm",
+      "option": "Cedar",
+      "image": "images/522-D.jpg",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "522-D",
+          "image": "images/522-D.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sauna Bench",
+      "code": "523-D",
+      "size": "500 x 1200 x 510mm",
+      "option": "Cedar",
+      "image": "images/523-D.jpg",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "523-D",
+          "image": "images/523-D.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sauna Bench 2-Steps",
+      "code": "524-D",
+      "size": "760 x 534 x 562mm",
+      "option": "Cedar",
+      "image": "images/524-D.jpg",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "524-D",
+          "image": "images/524-D.jpg"
+        }
+      ]
+    }
+  ],
+  "hangers_and_hook_racks": [
+    {
+      "name": "Wooden Hook Rack (3 Hooks)",
+      "size": "42 x 240mm",
+      "image": "images/SAWO_sauna_accessories_hook_racks_582.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "582-D",
+          "image": "images/SAWO_sauna_accessories_hook_racks_582-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "582-A",
+          "image": "images/SAWO_sauna_accessories_hook_racks_582-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "582-H",
+          "image": "images/SAWO_sauna_accessories_hook_racks_582-P.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Hook Rack (4 Hooks)",
+      "size": "42 x 340mm",
+      "image": "images/SAWO_sauna_accessories_hook_racks_586.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "586-D",
+          "image": "images/SAWO_sauna_accessories_hook_racks_586-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "586-A",
+          "image": "images/SAWO_sauna_accessories_hook_racks_586-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "586-H",
+          "image": "images/SAWO_sauna_accessories_hook_racks_586-P.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Hook Rack (5 Hooks)",
+      "size": "42 x 440mm",
+      "image": "images/SAWO_sauna_accessories_hook_racks_583.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "583-D",
+          "image": "images/SAWO_sauna_accessories_hook_racks_583-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "583-A",
+          "image": "images/SAWO_sauna_accessories_hook_racks_583-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "583-H",
+          "image": "images/SAWO_sauna_accessories_hook_racks_583-P.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Curve Towel Hanger",
+      "size": "42 x 240mm",
+      "image": "images/Wooden-Curve-Towel-Hanger-589.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "589-D",
+          "image": "images/Wooden-Curve-Towel-Hanger-589-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "589-A",
+          "image": "images/Wooden-Curve-Towel-Hanger-589-A.webp"
+        },
+        {
+          "color": "Black",
+          "code": "589-BL",
+          "image": "images/Wooden-Curve-Towel-Hanger-589-BL.webp"
+        }
+      ]
+    }
+  ],
+  "floor_mat_tiles": [
+    {
+      "name": "Wooden Floor Mat Block",
+      "size": "285 x 285mm",
+      "thickness": "22mm",
+      "image": "images/SAWO_sauna_accessories_floor-mat-tiles_595-BC.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "595-D-BC",
+          "image": "images/SAWO_sauna_accessories_floor-mat-tiles_595-D-BC.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "595-A-BC",
+          "image": "images/SAWO_sauna_accessories_floor-mat-tiles_595-A-BC.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "595-H-BC",
+          "image": "images/SAWO_sauna_accessories_floor-mat-tiles_595-P-BC.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Floor Mat Corner Frame",
+      "size": "390 x 115mm",
+      "thickness": "22mm",
+      "image": "images/SAWO_sauna_accessories_floor-mat-tiles_595-CNR.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "595-D-CNR",
+          "image": "images/SAWO_sauna_accessories_floor-mat-tiles_595-D-CNR.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "595-A-CNR",
+          "image": "images/SAWO_sauna_accessories_floor-mat-tiles_595-A-CNR.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "595-H-CNR",
+          "image": "images/SAWO_sauna_accessories_floor-mat-tiles_595-P-CNR.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wooden Floor Mat Sides",
+      "size": "285 x 115mm",
+      "thickness": "22mm",
+      "image": "images/SAWO_sauna_accessories_floor-mat-tiles_595-SID.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "595-D-SID",
+          "image": "images/SAWO_sauna_accessories_floor-mat-tiles_595-D-SID.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "595-A-SID",
+          "image": "images/SAWO_sauna_accessories_floor-mat-tiles_595-A-SID.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "595-H-SID",
+          "image": "images/SAWO_sauna_accessories_floor-mat-tiles_595-P-SID.webp"
+        }
+      ]
+    }
+  ],
+  "kivistone": [
+    {
+      "name": "Luxury Aroma Cup (ø)50",
+      "code": "R-160",
+      "size": "50 x 50 x 50mm",
+      "weight": "0.2kg",
+      "image": "images/R-160-300x300.webp"
+    },
+    {
+      "name": "Aroma Cup (ø)50",
+      "code": "R-100",
+      "size": "50 x 50 x 60mm",
+      "weight": "0.3kg",
+      "image": "images/R-100-300x300.webp"
+    },
+    {
+      "name": "Aroma Spirit Cup",
+      "code": "R-501",
+      "size": "75 x 75 x 120mm",
+      "weight": "0.7kg",
+      "image": "images/R-501-300x300.webp"
+    },
+    {
+      "name": "Scent Warmer",
+      "code": "R-123",
+      "size": "75 x 75 x 80mm",
+      "weight": "0.7kg",
+      "image": "images/R-123-300x300.webp"
+    },
+    {
+      "name": "Wine Cooler Stone",
+      "code": "R-93-D",
+      "size": "230 x 155 x 84mm",
+      "material": "Soapstone | Cedar",
+      "image": "images/R-93-D-300x300-1.webp"
+    },
+    {
+      "name": "Spa Stones Set",
+      "code": "R-500-D",
+      "size": "90 x 128 x 178mm",
+      "material": "Soapstone | Cedar",
+      "image": "images/R-500-D-300x300.webp"
+    },
+    {
+      "name": "Cooler (1 hole)",
+      "code": "R-141",
+      "size": "100 x 100 x 75mm",
+      "weight": "1.3kg",
+      "image": "images/R-141-300x300.webp"
+    },
+    {
+      "name": "Cooler (2 hole)",
+      "code": "R-92",
+      "size": "185 x 100 x 75mm",
+      "weight": "4.1kg",
+      "image": "images/R-92-300x300.webp"
+    },
+    {
+      "name": "Cooler w/ 2 shot glasses",
+      "code": "R-205",
+      "size": "135 x 100 x 70mm",
+      "weight": "1.8kg",
+      "image": "images/R-205-300x300.webp"
+    },
+    {
+      "name": "Cooler w/ 4 shot glasses",
+      "code": "R-206",
+      "size": "190 x 120 x 70mm",
+      "weight": "2.3kg",
+      "image": "images/R-205-300x300.webp"
+    },
+    {
+      "name": "Candle Holder Tower",
+      "code": "R-131",
+      "size": "60 x 60 x 60mm",
+      "weight": "0.6kg",
+      "image": "images/R-131-300x300.webp"
+    },
+    {
+      "name": "Candle Holder Tower",
+      "code": "R-132",
+      "size": "60 x 60 x 90mm",
+      "weight": "0.9kg",
+      "image": "images/R-132-300x300.webp"
+    },
+    {
+      "name": "Candle Holder Tower",
+      "code": "R-133",
+      "size": "60 x 60 x 120mm",
+      "weight": "1.2kg",
+      "image": "images/R-133-300x300.webp"
+    },
+    {
+      "name": "Tower Set 3",
+      "code": "R-125",
+      "size": "180 x 60 x 180mm",
+      "weight": "1.8kg",
+      "image": "images/R-125-300x300.webp"
+    },
+    {
+      "name": "Candle Holder Straight",
+      "code": "R-105",
+      "size": "265 x 60 x 30mm",
+      "weight": "1.3kg",
+      "image": "images/R-105-300x300.webp"
+    },
+    {
+      "name": "Stone Plate Small",
+      "code": "R-152",
+      "size": "240 x 170 x 25mm",
+      "weight": "2.8kg",
+      "image": "images/R-152-300x300.webp"
+    },
+    {
+      "name": "Stone Plate Large",
+      "size": "305 x 200 x 15mm",
+      "weight": "2.8kg",
+      "image": "images/R-153_PREVIEW.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "R-153-D",
+          "image": "images/R-153_Cedar.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "R-153-A",
+          "image": "images/R-153_Aspen.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "R-153-H",
+          "image": "images/R-153_Hemlock.webp"
+        }
+      ]
+    },
+    {
+      "name": "Soap Holder",
+      "code": "R-116",
+      "size": "180 x 100 x 30mm",
+      "weight": "0.9kg",
+      "image": "images/R-116-300x300.webp"
+    }
+  ],
+  "ventilations_and_miscellaneous": [
+    {
+      "name": "Ventilation Cover Circle",
+      "code": "640-MBR",
+      "size": "Ø160mm",
+      "image": "images/640-MBR_rv1.webp",
+      "variants": [
+        {
+          "color": "Metallic Brown",
+          "code": "640-MBR",
+          "image": "images/640-MBR_rv1.webp"
+        }
+      ]
+    },
+    {
+      "name": "Ventilation Cover Circle",
+      "code": "641-D",
+      "size": "Ø160mm",
+      "image": "images/SAWO_sauna_accessories_ventilations_641-D.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "641-D",
+          "image": "images/SAWO_sauna_accessories_ventilations_641-D.webp"
+        }
+      ]
+    },
+    {
+      "name": "Ventilation Louver Circle",
+      "size": "Ø145mm",
+      "ducting_hole": "100mm",
+      "image": "images/SAWO_sauna_accessories_ventilations_631.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "631-D",
+          "image": "images/SAWO_sauna_accessories_ventilations_631-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "631-A",
+          "image": "images/SAWO_sauna_accessories_ventilations_631-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "631-H",
+          "image": "images/SAWO_sauna_accessories_ventilations_631-P.webp"
+        }
+      ]
+    },
+    {
+      "name": "Ventilation Louver Circle",
+      "size": "Ø170mm",
+      "ducting_hole": "125mm",
+      "image": "images/SAWO_sauna_accessories_ventilations_634.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "634-D",
+          "image": "images/SAWO_sauna_accessories_ventilations_634-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "634-A",
+          "image": "images/SAWO_sauna_accessories_ventilations_634-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "634-H",
+          "image": "images/SAWO_sauna_accessories_ventilations_634-P.webp"
+        }
+      ]
+    },
+    {
+      "name": "Ventilation Louver Square",
+      "size": "215 x 170mm",
+      "image": "images/SAWO_sauna_accessories_ventilations_620.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "620-D",
+          "image": "images/SAWO_sauna_accessories_ventilations_620-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "620-A",
+          "image": "images/SAWO_sauna_accessories_ventilations_620-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "620-H",
+          "image": "images/SAWO_sauna_accessories_ventilations_620-P.webp"
+        }
+      ]
+    },
+    {
+      "name": "Ventilation Louver Circle with Black Option",
+      "size": "Ø145mm",
+      "ducting_hole": "100mm",
+      "image": "images/SAWO_sauna_accessories_ventilations_638.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "638-D",
+          "image": "images/SAWO_sauna_accessories_ventilations_638-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "638-A",
+          "image": "images/SAWO_sauna_accessories_ventilations_638-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "638-H",
+          "image": "images/SAWO_sauna_accessories_ventilations_638-P.webp"
+        },
+        {
+          "color": "Black",
+          "code": "638-BL",
+          "image": "images/SAWO_sauna_accessories_ventilations_638-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Ventilation Louver Circle with Black Option",
+      "size": "Ø170mm",
+      "ducting_hole": "125mm",
+      "image": "images/SAWO_sauna_accessories_ventilations_639.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "639-D",
+          "image": "images/SAWO_sauna_accessories_ventilations_639-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "639-A",
+          "image": "images/SAWO_sauna_accessories_ventilations_639-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "639-H",
+          "image": "images/SAWO_sauna_accessories_ventilations_639-P.webp"
+        },
+        {
+          "color": "Black",
+          "code": "639-BL",
+          "image": "images/SAWO_sauna_accessories_ventilations_639-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Display Stand Wall 1",
+      "code": "DP-15",
+      "size": "(L)630 x (W)1110 x (H)2000mm",
+      "image": "images/SAWO_sauna_accessories_DP15.webp"
+    },
+    {
+      "name": "Display Stand Wall 2",
+      "code": "DP-16",
+      "size": "(L)630 x (W)2300 x (H)2000mm",
+      "image": "images/SAWO_sauna_accessories_DP16.webp"
+    },
+    {
+      "name": "Display Stand Wall 3",
+      "code": "DP-17",
+      "size": "(L)630 x (W)3400 x (H)2000mm",
+      "image": "images/SAWO_sauna_accessories_DP17.webp"
+    },
+    {
+      "name": "Sauna Signage",
+      "size": "150 x 80mm",
+      "image": "images/SAWO_sauna_accessories_add_ons_950.webp",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "950-D",
+          "image": "images/SAWO_sauna_accessories_add_ons_950-D.webp"
+        },
+        {
+          "color": "Aspen",
+          "code": "950-A",
+          "image": "images/SAWO_sauna_accessories_add_ons_950-A.webp"
+        },
+        {
+          "color": "Hemlock",
+          "code": "950-H",
+          "image": "images/SAWO_sauna_accessories_add_ons_950-P.webp"
+        },
+        {
+          "color": "Black",
+          "code": "950-BL",
+          "image": "images/SAWO_sauna_accessories_add_ons_950-bl.webp"
+        }
+      ]
+    },
+    {
+      "name": "Moisture Paper",
+      "code": "SP02-900",
+      "size": "1200 x 77 x 77mm",
+      "image": "images/Moisture-Paper-1200x24mm.webp"
+    }
+  ],
+  "accessory_sets": [
+    {
+      "name": "Traditional",
+      "description": "The choice with a clean, timeless, and traditional finish. It delivers all the essential tools for everyday sauna use.",
+      "image": "images/SET-TRAD-D.jpg",
+      "inclusions": "Wooden Pail Basic 4L, Wooden Ladle Standard (36cm), Wooden Thermometer Cut Corner Square, Wooden Sandtimer Basic 45x300mm, Sauna Signage, and Sauna Guidelines",
+      "set_codes": "340-B, 430, 220-T, 552-B, 950, and 955",
+      "variants": [
+        {
+          "color": "Hemlock",
+          "code": "SET-TRAD-D",
+          "image": "images/SET-TRAD-D.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Essential",
+      "description": "The Essential set takes comfort and style to the next level, offering a wider collection of sauna items to enjoy.",
+      "image": "images/SET-ESS-D.jpg",
+      "inclusions": "Wooden Pail 4L, Wooden Ladle (36cm), Wooden Thermohygrometer, Wooden Sandtimer, Aroma Cup, Aroma Oil Eucalyptus Scent (250ml), Sauna Signage, and Sauna Guidelines",
+      "set_codes": "340, 430, 221-TH, 553, R-100, ARO-EUCA250, 950, and 955",
+      "variants": [
+        {
+          "color": "Hemlock",
+          "code": "SET-ESS-D",
+          "image": "images/SET-ESS-D.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Signature",
+      "description": "The distinguished Signature set is for those seeking an elegant and sophisticated sauna experience.",
+      "image": "images/SET-SIG-BL.webp",
+      "inclusions": "Wooden Pail Kanto 4L, Wooden Ladle Puro (51cm), Thermo-Hygrometer Square, Wooden Sandtimer, Wooden Pillow Wave, Aroma Cup, Aroma Oil Eucalyptus Scent (250ml), Sauna Signage, and Sauna Guidelines Hemlock",
+      "set_codes": "347, 459, 225-TH, 554, 515, R-100, ARO-EUCA250, 950, and 955",
+      "variants": [
+        {
+          "color": "Hemlock",
+          "code": "SET-SIG-D",
+          "image": "images/SET-SIG-D.webp"
+        },
+        {
+          "color": "Black",
+          "code": "SET-SIG-BL",
+          "image": "images/SET-SIG-BL.webp"
+        }
+      ]
+    },
+    {
+      "name": "Dragon",
+      "description": "With unparalleled style and innovation, the Dragon set offers a unique, bold look with added flair. This set is part of the Dragonfire Series, designed by renowned Finnish designer Stefan Lindfors.",
+      "image": "images/SET-DRAGON-BLACK.jpg",
+      "inclusions": "Dragon Pail 4L, Wooden Ladle Dragon, Thermo-Hygrometer Square, Wooden Sandtimer, Wooden Pillow Wave, Aroma Cup, Aroma Oil Eucalyptus Scent (250ml), Sauna Signage, and Sauna Guidelines Cedar",
+      "set_codes": "342, 449, 225-TH, 553, 515, R-100, ARO-EUCA250, 950, and 955",
+      "variants": [
+        {
+          "color": "Cedar",
+          "code": "SET-DRAGON-D",
+          "image": "images/SET-DRAGON-D.jpg"
+        },
+        {
+          "color": "Black",
+          "code": "SET-DRAGON-BL",
+          "image": "images/SET-DRAGON-BLACK.jpg"
+        }
+      ]
+    }
+  ]
+}
